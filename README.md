@@ -55,12 +55,14 @@ cd lims-project
 
 Set Up Environment:
 
-Copy .env.example to .env and configure variables:DATABASE_URL=postgresql+asyncpg://user:pass@localhost:5432/lims
-MONGO_URL=mongodb://mongo:27717/lims
+Copy .env.example to .env and configure variables:
+DATABASE_URL=postgresql+asyncpg://user:pass@localhost:5432/lims
+MONGO_URL=mongodb://mongo:27017/lims
 JWT_SECRET=your-secret-key
 
 
 Ensure .env is not committed to Git.
+
 
 
 Install Backend Dependencies:
@@ -69,9 +71,7 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-
-Note: pymongo==4.9.1 is used to resolve dependency conflict with motor==3.6.0.
-
+Dependencies include fastapi==0.115.12, sqlalchemy[asyncio]==2.0.40, pymongo==4.12.0, and motor==3.7.0.
 
 Install Frontend Dependencies:
 cd frontend
@@ -120,7 +120,9 @@ npm run dev
 Databases:
 
 Ensure PostgreSQL and MongoDB are running locally.
-Run migrations for PostgreSQL:cd backend
+
+Run migrations for PostgreSQL:
+cd backend
 alembic upgrade head
 
 
@@ -131,10 +133,10 @@ API Documentation
 
 Swagger UI: Available at http://localhost:8000/docs when the backend is running.
 Sample Endpoints:
-POST /samples: Create a new sample.
+POST /samples: Create a new sample (PostgreSQL).
 GET /samples/{sample_id}: Retrieve sample details.
 GET /workflows: List active workflows.
-POST /experiments: Store experiment data in MongoDB.
+POST /experiments: Store experiment data (MongoDB).
 
 
 Authentication: Use OAuth2 with JWT tokens (configure via /auth/token).
@@ -167,14 +169,16 @@ Directory Structure
 
 Testing
 
-Backend:cd backend
+Backend:
+cd backend
 pytest
 
 
-Uses pytest and pytest-asyncio for API and database tests.
+Uses pytest==8.3.3 and pytest-asyncio==0.24.0 for API and database tests.
 
 
-Frontend:cd frontend
+Frontend:
+cd frontend
 npm test
 
 
@@ -183,15 +187,18 @@ Uses Jest and React Testing Library.
 
 Manual Testing: Use Postman or curl to test API endpoints.
 
+
 Deployment
 
 Local: Use docker-compose for development and testing.
 Production:
-Build Docker images and push to a registry (e.g., Docker Hub, AWS ECR):docker-compose build
+Build Docker images and push to a registry (e.g., Docker Hub, AWS ECR):
+docker-compose build
 docker-compose push
 
 
-Deploy to a cloud provider (e.g., AWS ECS, Kubernetes):
+Deploy to a cloud provider:
+
 AWS ECS: Use Fargate for serverless containers.
 Kubernetes: Deploy with Helm charts or kompose.
 
