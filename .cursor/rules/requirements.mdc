@@ -8,7 +8,7 @@ alwaysApply: false
 ## Core Principles
 
 1. Requirements Location
-- All requirements MUST be in xdocs/req/ folder
+- All requirements MUST be in .docs/req/ folder
 - Files MUST be prefixed with "req-"
 - Example: docs/req/req-dashboard-layout.md
 
