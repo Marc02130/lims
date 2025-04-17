@@ -4,9 +4,6 @@
 # Virtual Env
 venv
 
-# YML 
-docker-compose.yml
-
 # Node
 node_modules
 package-lock.json
