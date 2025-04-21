@@ -4,7 +4,7 @@ from typing import Optional
 from datetime import datetime
 from sqlalchemy.dialects.postgresql import UUID
 from sqlalchemy import Column
-import sqlalchemy as sa  # Added import
+import sqlalchemy as sa
 
 class RefreshToken(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)

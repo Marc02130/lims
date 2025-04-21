@@ -11,5 +11,5 @@ class Sample(SQLModel, table=True):
     group_id: int = Field(foreign_key="groups.id")
     type: str
     status: str
-    metadata: Optional[dict] = Field(default=None, sa_column=Column(JSONB))
+    sample_metadata: Optional[dict] = Field(default=None, sa_column=Column(JSONB))
     created_at: datetime = Field(default_factory=datetime.utcnow)
