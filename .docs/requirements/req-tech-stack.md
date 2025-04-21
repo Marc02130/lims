@@ -300,7 +300,10 @@ Use AWS Application Load Balancer or Kubernetes Ingress for traffic management.
 │   ├── /src
 │   │   ├── /components     # React components
 │   │   ├── /pages          # React routes
+│   │   │   ├── /auth       # React routes
+│   │   │   └── /dashboard  # React routes
 │   │   ├── /api            # API client (Axios)
+│   │   ├── /utils          # React utilities
 │   │   └── App.tsx         # Main React app
 │   ├── Dockerfile          # Frontend Docker config
 │   └── package.json        # Node dependencies

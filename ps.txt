@@ -1,0 +1,730 @@
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+_windowserver      378   2.6  0.6 415415136 148576   ??  Ss   Sun08AM  38:48.33 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+marcbreneiser    27694   2.0 28.0 419137024 7055296   ??  Ss   10:06AM   3:00.56 /System/Library/Frameworks/Virtualization.framework/Versions/A/XPCServices/com.apple.Virtualization.VirtualMachine.xpc/Contents/MacOS/com.apple.Virtualization.VirtualMachine
+root               347   1.2  0.1 426975680  15520   ??  Ss   Sun08AM   0:50.61 /usr/libexec/opendirectoryd
+marcbreneiser      680   0.8  0.6 412507296 158832   ??  S    Sun08AM   0:58.60 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+marcbreneiser      684   0.3  1.2 415612784 297600   ??  S    Sun08AM   4:07.37 /Applications/DBeaver.app/Contents/MacOS/dbeaver
+marcbreneiser    25600   0.3  0.2 1623633360  58896   ??  S     9:42AM   0:09.52 Cursor Helper: terminal pty-host                 
+_driverkit         550   0.2  0.1 426917792  36752   ??  Ss   Sun08AM   2:47.86 /System/Library/DriverExtensions/com.apple.DriverKit-AppleBCMWLAN.dext/com.apple.DriverKit-AppleBCMWLAN com.apple.bcmwlan 0x100000e1a com.apple.DriverKit-AppleBCMWLAN
+root              2288   0.2  0.0 426966704   6960   ??  Ss   Sun08AM   0:37.81 /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCServices/com.apple.AmbientDisplayAgent.xpc/Contents/MacOS/com.apple.AmbientDisplayAgent
+root                 1   0.1  0.1 426853152  18480   ??  Ss   Sun08AM   4:21.43 /sbin/launchd
+marcbreneiser      650   0.1  0.1 427450608  34176   ??  S    Sun08AM   0:12.29 /usr/libexec/sharingd
+root               371   0.1  0.0 426932576   3792   ??  Ss   Sun08AM   0:20.53 /usr/sbin/notifyd
+marcbreneiser     3686   0.1  0.9 444811072 235776   ??  S    Sun08AM   0:50.97 /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+marcbreneiser    28219   0.0  0.3 1865438336  80160   ??  S    10:23AM   0:00.06 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/135.0.7049.96/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=79 --time-ticks-at-unix-epoch=-1745151700604687 --launch-time-ticks=35968184663 --shared-files --metrics-shmem-handle=1752395122,r,10592489874082791359,11712316589248096320,2097152 --field-trial-handle=1718379636,r,1488474953881809899,8969807607602963176,262144 --variations-seed-version=20250417-180112.233000 --seatbelt-client=42
+marcbreneiser    28177   0.0  0.1 426983728  31200   ??  S    10:21AM   0:00.18 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+marcbreneiser    27692   0.0  0.1 411930944  31744   ??  S    10:06AM   0:00.15 /Applications/Docker.app/Contents/MacOS/com.docker.virtualization --kernel /Applications/Docker.app/Contents/Resources/linuxkit/kernel --cmdline init=/init loglevel=1 root=/dev/vdb rootfstype=erofs ro vsyscall=emulate panic=0 eth0.dhcp eth1.dhcp linuxkit.unified_cgroup_hierarchy=1 console=hvc0   virtio_net.disable_csum=1 vpnkit.connect=connect://2/1999 --boot /Applications/Docker.app/Contents/Resources/linuxkit/boot.img --disk /Users/marcbreneiser/Library/Containers/com.docker.docker/Data/vms/0/data/Docker.raw --networkType gvisor --macaddr-filename-prefix /Users/marcbreneiser/Library/Containers/com.docker.docker/Data/vms/0/macaddr --cpus 10 --memoryMiB 8092 --console-log /Users/marcbreneiser/Library/Containers/com.docker.docker/Data/log/vm/console.log --console /Users/marcbreneiser/Library/Containers/com.docker.docker/Data/vms/0/console.sock --api /Users/marcbreneiser/Library/Containers/com.docker.docker/Data/virtualization.sock --watchdog --virtiofs /Users --virtiofs /Volumes --virtiofs /private --virtiofs /tmp --virtiofs /var/folders --rosetta
+marcbreneiser    27114   0.0  0.0 410625488   1648 s010  Ss+  10:04AM   0:00.22 /bin/zsh -il
+marcbreneiser    27024   0.0  0.1 426979872  30784   ??  Ss    9:58AM   0:00.16 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+marcbreneiser    26970   0.0  0.1 426942848  14976   ??  Ss    9:52AM   0:00.14 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+marcbreneiser    26869   0.0  0.1 1621837152  37616   ??  S     9:49AM   0:00.24 /Applications/Cursor.app/Contents/Frameworks/Cursor Helper (Plugin).app/Contents/MacOS/Cursor Helper (Plugin) /Applications/Cursor.app/Contents/Resources/app/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=25569
+marcbreneiser    26763   0.0  0.0 426916000   6512   ??  Ss    9:46AM   0:00.10 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+marcbreneiser    26761   0.0  0.0 426957664   3712   ??  Ss    9:46AM   0:00.70 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+marcbreneiser    26762   0.0  0.0 426957696   3712   ??  Ss    9:46AM   0:00.69 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+marcbreneiser    26728   0.0  0.2 1621807456  48304   ??  S     9:45AM   0:00.39 /Applications/Cursor.app/Contents/Frameworks/Cursor Helper (Plugin).app/Contents/MacOS/Cursor Helper (Plugin) /Users/marcbreneiser/.cursor/extensions/ms-azuretools.vscode-docker-1.29.4/dist/compose-language-service/lib/server.js --node-ipc --node-ipc --clientProcessId=25569
+marcbreneiser    26727   0.0  0.2 1621799264  42384   ??  S     9:45AM   0:00.31 /Applications/Cursor.app/Contents/Frameworks/Cursor Helper (Plugin).app/Contents/MacOS/Cursor Helper (Plugin) /Users/marcbreneiser/.cursor/extensions/ms-azuretools.vscode-docker-1.29.4/dist/dockerfile-language-server-nodejs/lib/server.js --node-ipc --node-ipc --clientProcessId=25569
+marcbreneiser    26578   0.0  0.2 1623536064  54784   ??  S     9:42AM   0:01.10 /Applications/Cursor.app/Contents/Frameworks/Cursor Helper (Plugin).app/Contents/MacOS/Cursor Helper (Plugin) /Users/marcbreneiser/.cursor/extensions/ms-python.vscode-pylance-2024.8.1/dist/server.bundle.js --cancellationReceive=file:bd26fe5e7c1047fa051d73c73805d04d4a542438f9 --node-ipc --clientProcessId=25569
+marcbreneiser    26210   0.0  0.1 1621840224  35376   ??  S     9:42AM   0:00.29 /Applications/Cursor.app/Contents/Frameworks/Cursor Helper (Plugin).app/Contents/MacOS/Cursor Helper (Plugin) /Applications/Cursor.app/Contents/Resources/app/extensions/node_modules/typescript/lib/typingsInstaller.js --globalTypingsCacheLocation /Users/marcbreneiser/Library/Caches/typescript/5.7 --enableTelemetry --typesMapLocation /Applications/Cursor.app/Contents/Resources/app/extensions/node_modules/typescript/lib/typesMap.json --validateDefaultNpmLocation
+marcbreneiser    26126   0.0  0.0 410677712   1472 s006  Ss+   9:42AM   0:00.24 /bin/zsh -i
+marcbreneiser    26078   0.0  0.0 410679264   2432   ??  S     9:42AM   0:00.10 /Users/marcbreneiser/.cursor/extensions/ms-python.python-2024.12.3-darwin-arm64/python-env-tools/bin/pet server
+marcbreneiser    26059   0.0  1.5 1621841712 373184   ??  S     9:42AM   0:12.02 tsserver[5.7.2]: semantic              
+marcbreneiser    26058   0.0  0.3 1621813552  67104   ??  S     9:42AM   0:01.27 tsserver[5.7.2]: syntax                
+marcbreneiser    25779   0.0  0.0 410677824   3248 s004  Ss+   9:42AM   0:00.14 /bin/zsh -il
+marcbreneiser    25567   0.0  0.1 411656448  18864   ??  Ss    9:42AM   0:00.06 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTEncoderXPCService.xpc/Contents/MacOS/VTEncoderXPCService
+marcbreneiser    25569   0.0  0.8 1623658816 196848   ??  S     9:42AM   0:11.31 Cursor Helper (Plugin): extension-host [1-1]                   
+marcbreneiser    25361   0.0  0.2 1623631696  60112   ??  S     9:42AM   0:02.02 Cursor Helper: fileWatcher [1]                 
+marcbreneiser    25359   0.0  0.3 1623631088  71120   ??  S     9:42AM   0:01.79 Cursor Helper: shared-process                 
+marcbreneiser    25048   0.0  1.8 1627099680 461760   ??  S     9:42AM   2:18.59 /Applications/Cursor.app/Contents/Frameworks/Cursor Helper (Renderer).app/Contents/MacOS/Cursor Helper (Renderer) --type=renderer --user-data-dir=/Users/marcbreneiser/Library/Application Support/Cursor --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/Applications/Cursor.app/Contents/Resources/app --enable-sandbox --enable-blink-features=HighlightAPI --force-gpu-mem-available-mb=1024 --disable-blink-features=FontMatchingCTMigration,StandardizedBrowserZoom, --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1745209424908493 --launch-time-ticks=33542699276 --shared-files --field-trial-handle=1718379636,r,5385977608828491966,16827415985816613678,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=CalculateNativeWinOcclusion,MacWebContentsOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --vscode-window-config=vscode:9fbc236b-60b6-45c2-a439-2b9fbdb8c7e1 --seatbelt-client=63
+marcbreneiser    25045   0.0  0.1 443996576  25488   ??  S     9:42AM   0:00.49 /Applications/Cursor.app/Contents/Frameworks/Cursor Helper.app/Contents/MacOS/Cursor Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --user-data-dir=/Users/marcbreneiser/Library/Application Support/Cursor --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,5385977608828491966,16827415985816613678,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=CalculateNativeWinOcclusion,MacWebContentsOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=25
+marcbreneiser    25044   0.0  0.3 444489680  78800   ??  S     9:42AM   0:36.52 /Applications/Cursor.app/Contents/Frameworks/Cursor Helper (GPU).app/Contents/MacOS/Cursor Helper (GPU) --type=gpu-process --user-data-dir=/Users/marcbreneiser/Library/Application Support/Cursor --gpu-preferences=UAAAAAAAAAAgAAAEAAAAQAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=1718379636,r,5385977608828491966,16827415985816613678,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=CalculateNativeWinOcclusion,MacWebContentsOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=41
+marcbreneiser    25042   0.0  0.0 443708752   2560   ??  S     9:42AM   0:00.01 /Applications/Cursor.app/Contents/Frameworks/Electron Framework.framework/Helpers/chrome_crashpad_handler --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=/Users/marcbreneiser/Library/Application Support/Cursor/Crashpad --url=https://f.a.k/e --annotation=_productName=Cursor --annotation=_version=0.48.9 --annotation=plat=OS X --annotation=prod=Electron --annotation=ver=34.3.4 --handshake-fd=24
+marcbreneiser    25040   0.0  0.8 1624383600 194192   ??  S     9:42AM   0:39.52 /Applications/Cursor.app/Contents/MacOS/Cursor
+marcbreneiser    24807   0.0  0.6 1865534512 138928   ??  S     9:37AM   0:01.29 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/135.0.7049.96/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=34 --time-ticks-at-unix-epoch=-1745151700604687 --launch-time-ticks=33202681363 --shared-files --metrics-shmem-handle=1752395122,r,5225790086211551956,11966112626536821392,2097152 --field-trial-handle=1718379636,r,1488474953881809899,8969807607602963176,262144 --variations-seed-version=20250417-180112.233000 --seatbelt-client=148
+marcbreneiser    24510   0.0  0.1 427000592  29104   ??  Ss    9:27AM   0:00.14 /System/Library/ExtensionKit/Extensions/TextThumbnailExtension.appex/Contents/MacOS/TextThumbnailExtension
+marcbreneiser    24505   0.0  0.0 426943776   9280   ??  Ss    9:27AM   0:00.08 /System/Library/ExtensionKit/Extensions/ImageThumbnailExtension.appex/Contents/MacOS/ImageThumbnailExtension
+marcbreneiser    24474   0.0  0.0 410331344   2448   ??  Ss    9:26AM   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+marcbreneiser    24473   0.0  0.1 426981328  17072   ??  Ss    9:26AM   0:00.13 /System/Library/ExtensionKit/Extensions/AudiovisualThumbnailExtension.appex/Contents/MacOS/AudiovisualThumbnailExtension
+marcbreneiser    24472   0.0  0.0 426943072  10720   ??  Ss    9:26AM   0:00.10 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+root             24399   0.0  0.0 426967376   8608   ??  Ss    9:23AM   0:00.06 /usr/libexec/wifivelocityd
+marcbreneiser    22397   0.0  0.1 426979872  15936   ??  Ss    9:13AM   0:00.43 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+marcbreneiser    22392   0.0  0.7 1865530576 181888   ??  S     9:13AM   0:03.50 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/135.0.7049.96/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=32 --time-ticks-at-unix-epoch=-1745151700604687 --launch-time-ticks=31792625611 --shared-files --metrics-shmem-handle=1752395122,r,13012155752876391660,14202517432952461950,2097152 --field-trial-handle=1718379636,r,1488474953881809899,8969807607602963176,262144 --variations-seed-version=20250417-180112.233000 --seatbelt-client=35
+marcbreneiser    22346   0.0  0.1 426979872  16000   ??  Ss    9:12AM   0:00.88 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+marcbreneiser    21706   0.0  0.0 426953600   3696   ??  Ss    9:04AM   0:00.33 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+marcbreneiser    21314   0.0  0.0 410794960   3168   ??  Ss    8:49AM   0:00.42 /System/Library/PrivateFrameworks/CSExattrCrypto.framework/Versions/A/XPCServices/CSExattrCryptoService.xpc/Contents/MacOS/CSExattrCryptoService
+marcbreneiser    19472   0.0  0.0 426845952   1344   ??  S     8:42AM   0:00.03 /usr/bin/ssh-agent -l
+marcbreneiser    18786   0.0  0.1 498992256  37360   ??  Ss    8:21AM   0:00.05 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+marcbreneiser    18669   0.0  1.5 500046768 366176   ??  Ss    8:16AM   1:21.97 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+marcbreneiser    18659   0.0  0.0 426912496   5344   ??  Ss    8:15AM   0:00.14 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+_fpsd            18658   0.0  0.1 426981824  25440   ??  Ss    8:15AM   0:00.98 /System/Library/PrivateFrameworks/CoreLSKD.framework/Versions/A/lskdd
+marcbreneiser    18333   0.0  0.3 499733296  65856   ??  Ss    8:02AM   0:52.16 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+marcbreneiser    17858   0.0  0.1 426980960  20784   ??  S     7:37AM   0:00.30 /System/Library/PrivateFrameworks/AvatarPersistence.framework/Support/avatarsd
+marcbreneiser    14693   0.0  0.0 426967040   7120   ??  Ss    4:23AM   0:00.04 /System/Library/PrivateFrameworks/CoreEmbeddedSpeechRecognition.framework/Versions/A/XPCServices/com.apple.siri.embeddedspeech.xpc/Contents/MacOS/com.apple.siri.embeddedspeech
+marcbreneiser    13271   0.0  0.1 426978080  14544   ??  Ss   10:57PM   0:01.89 /System/Library/PrivateFrameworks/IntelligencePlatformCompute.framework/Versions/A/XPCServices/IntelligencePlatformComputeService.xpc/Contents/MacOS/IntelligencePlatformComputeService
+root             11832   0.0  0.0 427074640  10608   ??  S     7:42PM   0:00.07 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+root             11826   0.0  0.0 426968944   8688   ??  S     7:42PM   0:00.17 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+_gamecontrollerd 11787   0.0  0.0 411198960   4768   ??  S     7:26PM   0:00.08 /System/Library/PrivateFrameworks/GameControllerFoundation.framework/Versions/A/XPCServices/GameControllerConfigService.xpc/Contents/MacOS/GameControllerConfigService
+marcbreneiser    11455   0.0  0.0 410311888   2400   ??  Ss    6:57PM   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+marcbreneiser    11401   0.0  0.1 427170096  29280   ??  Ss    6:55PM   0:00.53 /System/Library/Frameworks/AuthenticationServices.framework/Versions/A/XPCServices/com.apple.AuthenticationServices.Helper.xpc/Contents/MacOS/com.apple.AuthenticationServices.Helper
+marcbreneiser    11395   0.0  0.1 411558928  28096   ??  Ss    6:55PM   0:00.41 /System/Library/CoreServices/Dock.app/Contents/XPCServices/DockHelper.xpc/Contents/MacOS/DockHelper
+marcbreneiser    11362   0.0  0.1 427025152  35760   ??  Ss    6:54PM   0:00.34 /System/Library/PrivateFrameworks/LocalAuthenticationUI.framework/Versions/A/XPCServices/LocalAuthenticationRemoteService.xpc/Contents/MacOS/LocalAuthenticationRemoteService
+marcbreneiser    11356   0.0  0.0 410197920   4144   ??  Ss    6:54PM   0:00.03 /System/Library/PrivateFrameworks/SafariFoundation.framework/Versions/A/XPCServices/CredentialProviderExtensionHelper.xpc/Contents/MacOS/CredentialProviderExtensionHelper
+marcbreneiser    11350   0.0  0.0 411179808   5600   ??  Ss    6:53PM   0:00.03 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/XPCServices/com.apple.Safari.BrowserDataImportingService.xpc/Contents/MacOS/com.apple.Safari.BrowserDataImportingService
+marcbreneiser     8540   0.0  0.0 426912528   5216   ??  Ss    1:56PM   0:00.23 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+_reportsystemmemory  8028   0.0  0.0 426966432   3424   ??  Ss   12:53PM   0:00.04 /System/Library/CoreServices/ReportSystemMemory
+marcbreneiser     6638   0.0  0.1 412037408  13200   ??  Ss   12:02PM  13:14.27 /System/Library/PrivateFrameworks/MediaAnalysisAccess.framework/Versions/A/XPCServices/mediaanalysisd-access.xpc/Contents/MacOS/mediaanalysisd-access
+_nsurlsessiond    6481   0.0  0.0 411426672   3104   ??  Ss   11:05AM   0:00.08 /System/Library/PrivateFrameworks/StreamingZip.framework/Versions/A/XPCServices/com.apple.StreamingUnzipService.privileged.xpc/Contents/MacOS/com.apple.StreamingUnzipService.privileged
+marcbreneiser     6446   0.0  0.1 426974608  15344   ??  S    11:04AM   0:02.38 /System/Library/PrivateFrameworks/ContactsDonation.framework/Versions/A/Support/contactsdonationagent
+marcbreneiser     6441   0.0  0.0 426933952   4704   ??  Ss   11:04AM   0:00.09 /System/Library/PrivateFrameworks/MessagesBlastDoorSupport.framework/Versions/A/XPCServices/MessagesBlastDoorService.xpc/Contents/MacOS/MessagesBlastDoorService
+marcbreneiser     6293   0.0  0.0 426977504  10192   ??  S    Sun10AM   0:00.11 /usr/libexec/mlruntimed
+marcbreneiser     6245   0.0  0.1 413639984  25920   ??  S    Sun09AM   0:04.14 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/managedcorespotlightd
+marcbreneiser     6166   0.0  0.0 426966848   7136   ??  Ss   Sun09AM   0:00.05 /System/Library/Frameworks/Intents.framework/XPCServices/intents_helper.xpc/Contents/MacOS/intents_helper
+marcbreneiser     6162   0.0  0.0 426928848   2544   ??  S    Sun09AM   0:00.02 /System/Library/PrivateFrameworks/ToneLibrary.framework/Versions/A/XPCServices/com.apple.tonelibraryd.xpc/Contents/MacOS/com.apple.tonelibraryd
+marcbreneiser     6161   0.0  0.1 426989536  22688   ??  Ss   Sun09AM   0:01.45 /System/Applications/Messages.app/Contents/PlugIns/Messages Assistant Extension.appex/Contents/MacOS/Messages Assistant Extension -AppleLanguages ("en-US")
+marcbreneiser     6160   0.0  0.1 427012208  23392   ??  S    Sun09AM   0:07.09 /usr/libexec/textunderstandingd
+marcbreneiser     6133   0.0  0.0 426967888   4576   ??  S    Sun09AM   0:03.11 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+marcbreneiser     6119   0.0  0.0 411076832   9200   ??  Ss   Sun09AM   0:00.38 /System/Library/PrivateFrameworks/FileProviderDaemon.framework/XPCServices/FPCKService.xpc/Contents/MacOS/FPCKService
+root              6036   0.0  0.1 426981312  32624   ??  Ss   Sun09AM   1:43.55 /usr/libexec/PerfPowerServices
+marcbreneiser     6029   0.0  0.1 411966528  18464   ??  S    Sun09AM   0:00.48 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/MacOS/coreautha
+root              6027   0.0  0.0 426911744   5200   ??  Ss   Sun09AM   0:00.04 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+marcbreneiser     5981   0.0  0.0 410674256   3680   ??  S    Sun09AM   0:00.06 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+root              5858   0.0  0.0 426957648   3632   ??  Ss   Sun09AM   0:00.22 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root              5859   0.0  0.0 426957648   3632   ??  Ss   Sun09AM   0:00.11 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root              5854   0.0  0.1 427072272  17936   ??  Ss   Sun09AM   0:01.65 /System/Library/CoreServices/iconservicesagent runAsRoot
+marcbreneiser     5842   0.0  0.0 426968208  11776   ??  S    Sun09AM   0:00.09 /System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration
+root              5837   0.0  0.0 410640208   2496   ??  Ss   Sun09AM   0:00.07 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+_neuralengine     5828   0.0  0.0 426932928   2944   ??  S    Sun09AM   0:00.18 /usr/sbin/cfprefsd agent
+_neuralengine     5827   0.0  0.0 426932880   2192   ??  S    Sun09AM   0:01.03 /usr/sbin/distnoted agent
+_neuralengine     5825   0.0  0.0 426933760   2096   ??  Ss   Sun09AM   0:00.02 /System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANEStorageMaintainer.xpc/Contents/MacOS/ANEStorageMaintainer
+root              5824   0.0  0.0 426933760   2544   ??  Ss   Sun09AM   0:00.06 /System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANEStorageMaintainer.xpc/Contents/MacOS/ANEStorageMaintainer
+marcbreneiser     5811   0.0  0.0 426967408  10368   ??  S    Sun09AM   0:00.07 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+root              5810   0.0  0.0 426971440   4144   ??  Ss   Sun09AM   0:00.12 /usr/libexec/dprivacyd
+_rmd              5806   0.0  0.0 426932928   2832   ??  S    Sun09AM   0:00.19 /usr/sbin/cfprefsd agent
+_applepay         5805   0.0  0.0 426932928   2944   ??  S    Sun09AM   0:00.19 /usr/sbin/cfprefsd agent
+_modelmanagerd    5804   0.0  0.0 426932928   2864   ??  S    Sun09AM   0:00.19 /usr/sbin/cfprefsd agent
+marcbreneiser     5803   0.0  0.0 426932400   2576   ??  S    Sun09AM   0:00.04 /usr/libexec/metrickitd
+marcbreneiser     5793   0.0  0.0 426969632   9200   ??  Ss   Sun09AM   0:00.15 /System/Library/PrivateFrameworks/DifferentialPrivacy.framework/XPCServices/DPSubmissionService.xpc/Contents/MacOS/DPSubmissionService
+_softwareupdate   5787   0.0  0.0 426932928   2880   ??  S    Sun09AM   0:00.20 /usr/sbin/cfprefsd agent
+marcbreneiser     5784   0.0  0.0 426971968   4720   ??  S    Sun09AM   0:00.33 /usr/libexec/dprivacyd
+_nsurlsessiond    5783   0.0  0.0 426932928   2912   ??  S    Sun09AM   0:00.19 /usr/sbin/cfprefsd agent
+marcbreneiser     5782   0.0  0.0 426967968   7488   ??  S    Sun09AM   0:00.16 /usr/libexec/ciphermld
+root              5775   0.0  0.0 426928592   5056   ??  Ss   Sun09AM   0:00.03 /usr/libexec/griddatad
+marcbreneiser     5365   0.0  0.0 426968256   6320   ??  Ss   Sun08AM   0:00.02 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/XPCServices/SpeechSynthesisServerXPC.xpc/Contents/MacOS/SpeechSynthesisServerXPC
+marcbreneiser     5363   0.0  0.1 427005472  20752   ??  Ss   Sun08AM   0:00.26 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/PlugIns/QLPreviewGenerationExtension.appex/Contents/MacOS/QLPreviewGenerationExtension -AppleLanguages ("en", "en-US")
+marcbreneiser     4883   0.0  0.1 426979872  20064   ??  Ss   Sun08AM   0:00.52 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root              4826   0.0  0.0 426968560  12160   ??  Ss   Sun08AM   0:00.49 /usr/libexec/powerdatad
+marcbreneiser     4720   0.0  0.3 499784032  73120   ??  Ss   Sun08AM   0:16.23 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+marcbreneiser     4718   0.0  0.2 499495904  59328   ??  Ss   Sun08AM   0:03.10 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+marcbreneiser     4705   0.0  0.2 500256256  57168   ??  Ss   Sun08AM   2:01.60 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+marcbreneiser     4662   0.0  0.2 499693136  49984   ??  Ss   Sun08AM   0:08.05 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+trilogy           4632   0.0  0.0 426969104   5568   ??  S    Sun08AM   0:00.19 /usr/libexec/trustd --agent
+trilogy           4631   0.0  0.0 426965552   4432   ??  S    Sun08AM   0:00.14 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+trilogy           4630   0.0  0.0 426982496   9648   ??  S    Sun08AM   0:00.11 /usr/libexec/secd
+trilogy           4629   0.0  0.0 426928848   2032   ??  S    Sun08AM   0:00.02 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+trilogy           4628   0.0  0.1 426976208  13440   ??  S    Sun08AM   0:00.11 /usr/libexec/lsd
+trilogy           4627   0.0  0.0 426943216  10592   ??  S    Sun08AM   0:00.06 /usr/libexec/pkd
+trilogy           4626   0.0  0.0 426932944   3200   ??  S    Sun08AM   0:00.23 /usr/sbin/cfprefsd agent
+trilogy           4624   0.0  0.1 426978224  14432   ??  SN   Sun08AM   0:00.64 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+trilogy           4625   0.0  0.0 426943376   8816   ??  S    Sun08AM   0:00.15 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+trilogy           4623   0.0  0.0 426932880   2288   ??  S    Sun08AM   0:01.32 /usr/sbin/distnoted agent
+marcbreneiser     4547   0.0  0.0 426973856   5936   ??  S    Sun08AM   0:00.05 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPArtworkAgent --launchd
+marcbreneiser     4546   0.0  0.0 426967232   7360   ??  S    Sun08AM   0:00.06 /System/Library/PrivateFrameworks/BookKit.framework/Versions/A/XPCServices/com.apple.BKAgentService.xpc/Contents/MacOS/com.apple.BKAgentService
+marcbreneiser     4218   0.0  0.2 427170976  44288   ??  S    Sun08AM   0:00.49 /System/Library/CoreServices/UserNotificationCenter.app/Contents/MacOS/UserNotificationCenter
+marcbreneiser     4215   0.0  0.0 426968368   4928   ??  S    Sun08AM   0:00.04 /System/Library/PrivateFrameworks/PodcastServices.framework/XPCServices/PodcastContentService.xpc/Contents/MacOS/PodcastContentService
+marcbreneiser     4211   0.0  0.7 1621982960 184976   ??  S    Sun08AM  11:14.04 /Applications/Docker.app/Contents/MacOS/Docker Desktop.app/Contents/Frameworks/Docker Desktop Helper (Renderer).app/Contents/MacOS/Docker Desktop Helper (Renderer) --type=renderer --user-data-dir=/Users/marcbreneiser/Library/Application Support/Docker Desktop --standard-schemes=app --secure-schemes=app --fetch-schemes=dd --app-path=/Applications/Docker.app/Contents/MacOS/Docker Desktop.app/Contents/Resources/app.asar --enable-sandbox --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1745151700605297 --launch-time-ticks=602387975 --shared-files --field-trial-handle=1718379636,r,8086446447693362123,5464623603551357479,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=MacWebContentsOcclusion,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --desktop-ui-preload-params={"needsBackendErrorsIpcClient":true,"needsPrimaryIpcClient":true} --seatbelt-client=84
+marcbreneiser     4120   0.0  0.1 444037984  19136   ??  S    Sun08AM   0:02.02 /Applications/Docker.app/Contents/MacOS/Docker Desktop.app/Contents/Frameworks/Docker Desktop Helper.app/Contents/MacOS/Docker Desktop Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --user-data-dir=/Users/marcbreneiser/Library/Application Support/Docker Desktop --standard-schemes=app --secure-schemes=app --fetch-schemes=dd --shared-files --field-trial-handle=1718379636,r,8086446447693362123,5464623603551357479,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=MacWebContentsOcclusion,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=40
+marcbreneiser     4119   0.0  0.2 444304464  53840   ??  S    Sun08AM   0:50.19 /Applications/Docker.app/Contents/MacOS/Docker Desktop.app/Contents/Frameworks/Docker Desktop Helper (GPU).app/Contents/MacOS/Docker Desktop Helper (GPU) --type=gpu-process --user-data-dir=/Users/marcbreneiser/Library/Application Support/Docker Desktop --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=1718379636,r,8086446447693362123,5464623603551357479,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=MacWebContentsOcclusion,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=39
+marcbreneiser     4085   0.0  0.5 1622323408 134704   ??  S    Sun08AM   1:22.03 /Applications/Docker.app/Contents/MacOS/Docker Desktop.app/Contents/MacOS/Docker Desktop --reason=open-tray --analytics-enabled=true --name=dashboard
+marcbreneiser     4084   0.0  0.2 411686416  38592   ??  S    Sun08AM   0:02.32 com.docker.build
+marcbreneiser     4083   0.0  0.0 411343696   5680   ??  S    Sun08AM   0:00.04 com.docker.dev-envs -watchdog
+marcbreneiser     4072   0.0  0.1 427011568  22624   ??  S    Sun08AM   0:01.21 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPLibraryAgent --launchd
+marcbreneiser     4071   0.0  0.0 426994512   9312   ??  Ss   Sun08AM   0:00.05 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/media-indexer.xpc/Contents/MacOS/media-indexer
+root              4068   0.0  0.0 411876144   3824   ??  Ss   Sun08AM   0:00.05 /Library/PrivilegedHelperTools/com.docker.vmnetd
+root              4040   0.0  0.0 426928288   1472   ??  Ss   Sun08AM   0:00.01 /System/Library/Frameworks/Security.framework/authtrampoline
+marcbreneiser     3964   0.0  0.8 413792672 195392   ??  S    Sun08AM   4:48.48 /Applications/Docker.app/Contents/MacOS/com.docker.backend run
+marcbreneiser     3963   0.0  0.2 411545472  51008   ??  S    Sun08AM   0:21.37 /Applications/Docker.app/Contents/MacOS/com.docker.backend
+marcbreneiser     3959   0.0  0.0 410179856   1760   ??  Ss   Sun08AM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+root              3955   0.0  0.0 426967664   4848   ??  Ss   Sun08AM   0:00.03 /usr/libexec/sysdiagnosed
+marcbreneiser     3953   0.0  0.2 499639360  54288   ??  Ss   Sun08AM   0:08.28 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+marcbreneiser     3952   0.0  0.0 410763104   4608   ??  Ss   Sun08AM   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagedSettingsSubscriber.xpc/Contents/MacOS/ManagedSettingsSubscriber
+marcbreneiser     3951   0.0  0.0 410806736   6432   ??  Ss   Sun08AM   0:00.08 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ASConfigurationSubscriber.xpc/Contents/MacOS/ASConfigurationSubscriber
+marcbreneiser     3950   0.0  0.0 410761488   4208   ??  Ss   Sun08AM   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagementTestSubscriber.xpc/Contents/MacOS/ManagementTestSubscriber
+marcbreneiser     3949   0.0  0.0 410783056   6240   ??  Ss   Sun08AM   0:00.08 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/AccountSubscriber.xpc/Contents/MacOS/AccountSubscriber
+marcbreneiser     3948   0.0  0.0 410771760   4192   ??  Ss   Sun08AM   0:00.05 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/PasscodeSettingsSubscriber.xpc/Contents/MacOS/PasscodeSettingsSubscriber
+marcbreneiser     3947   0.0  0.0 410763536   4176   ??  Ss   Sun08AM   0:00.05 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/LegacyProfilesSubscriber.xpc/Contents/MacOS/LegacyProfilesSubscriber
+marcbreneiser     3943   0.0  0.0 410772256   6176   ??  Ss   Sun08AM   0:00.10 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ScreenSharingSubscriber.xpc/Contents/MacOS/ScreenSharingSubscriber
+marcbreneiser     3942   0.0  0.0 410771712   4208   ??  Ss   Sun08AM   0:00.06 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/InteractiveLegacyProfilesSubscriber.xpc/Contents/MacOS/InteractiveLegacyProfilesSubscriber
+marcbreneiser     3941   0.0  0.0 410771792   4272   ??  Ss   Sun08AM   0:00.08 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/SecuritySubscriber.xpc/Contents/MacOS/SecuritySubscriber
+marcbreneiser     3940   0.0  0.0 411069920   6048   ??  Ss   Sun08AM   0:00.07 /System/Library/PrivateFrameworks/SafariFoundation.framework/Versions/A/XPCServices/SafariConfigurationSubscriber.xpc/Contents/MacOS/SafariConfigurationSubscriber
+root              3937   0.0  0.0 426932944   5520   ??  Ss   Sun08AM   0:00.03 /usr/libexec/microstackshot
+marcbreneiser     3938   0.0  0.0 426968096   6960   ??  S    Sun08AM   0:00.09 /System/Library/PrivateFrameworks/RemoteManagement.framework/RemoteManagementAgent
+marcbreneiser     3939   0.0  0.0 426967792   5760   ??  S    Sun08AM   0:00.56 /usr/libexec/proactiveeventtrackerd
+root              3935   0.0  0.0 426932368   1952   ??  Ss   Sun08AM   0:00.06 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbstated
+marcbreneiser     3934   0.0  0.2 431521904  42960   ??  S    Sun08AM   0:00.64 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent
+marcbreneiser     3932   0.0  0.0 426929296   5056   ??  S    Sun08AM   0:00.06 /usr/libexec/backgroundassets.user
+marcbreneiser     3930   0.0  0.2 499174096  47696   ??  Ss   Sun08AM   0:01.06 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+marcbreneiser     3927   0.0  0.0 426953568   3648   ??  Ss   Sun08AM   0:00.03 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+marcbreneiser     3918   0.0  0.0 426967552   4656   ??  Ss   Sun08AM   0:00.07 /System/Library/PrivateFrameworks/MessagesBlastDoorSupport.framework/Versions/A/XPCServices/MessagesBlastDoorService.xpc/Contents/MacOS/MessagesBlastDoorService
+marcbreneiser     3916   0.0  0.0 426966304   7856   ??  S    Sun08AM   0:00.07 /System/Library/PrivateFrameworks/BusinessChatService.framework/businessservicesd
+root              3913   0.0  0.0 426932944   3040   ??  Ss   Sun08AM   0:00.05 /usr/libexec/betaenrollmentd
+marcbreneiser     3912   0.0  0.0 426966848   4864   ??  S    Sun08AM   0:00.06 /usr/libexec/betaenrollmentagent
+root              3911   0.0  0.0 426933456   3280   ??  Ss   Sun08AM   0:00.15 /usr/libexec/mmaintenanced
+root              3908   0.0  0.0 426968048   5632   ??  Ss   Sun08AM   0:03.20 /usr/libexec/ASPCarryLog
+marcbreneiser     3904   0.0  0.1 426970528  16560   ??  S    Sun08AM   0:00.92 /System/Library/PrivateFrameworks/OnDeviceStorage.framework/Support/amsondevicestoraged
+marcbreneiser     3903   0.0  0.0 426966096   8080   ??  S    Sun08AM   0:00.07 /System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert
+marcbreneiser     3900   0.0  0.0 426969568   8656   ??  S    Sun08AM   0:00.42 /System/Library/PrivateFrameworks/IntelligencePlatformCore.framework/Versions/A/intelligenceplatformd
+marcbreneiser     3895   0.0  0.1 431444848  16288   ??  S    Sun08AM   0:00.60 /System/Cryptexes/App/usr/libexec/AuthenticationServicesAgent
+root              3894   0.0  0.0 426933504   3680   ??  Ss   Sun08AM   0:00.10 /System/Library/PrivateFrameworks/PerfPowerServicesReader.framework/Versions/A/XPCServices/PerfPowerTelemetryReaderService.xpc/Contents/MacOS/PerfPowerTelemetryReaderService
+marcbreneiser     3873   0.0  0.0 426942560   7856   ??  Ss   Sun08AM   0:01.80 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+marcbreneiser     3871   0.0  0.1 426977120  14320   ??  S    Sun08AM   0:01.46 /usr/libexec/mlhostd
+marcbreneiser     3851   0.0  1.2 500303232 300128   ??  Ss   Sun08AM   1:51.31 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+marcbreneiser     3844   0.0  5.5 501533264 1395376   ??  Ss   Sun08AM  15:07.28 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+_accessoryupdater  3843   0.0  0.0 426965792   4368   ??  Ss   Sun08AM   0:00.10 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/EAUpdaterService.xpc/Contents/MacOS/EAUpdaterService
+marcbreneiser     3835   0.0  0.1 426968736  13472   ??  S    Sun08AM   0:00.23 /System/Library/PrivateFrameworks/GeoAnalytics.framework/geoanalyticsd
+marcbreneiser     3834   0.0  0.0 426983072   8560   ??  S    Sun08AM   0:06.92 /System/Cryptexes/App/usr/libexec/PasswordBreachAgent
+marcbreneiser     3833   0.0  0.1 426988608  21200   ??  S    Sun08AM   0:02.47 /usr/libexec/tipsd
+marcbreneiser     3832   0.0  0.0 411068768   5776   ??  Ss   Sun08AM   0:00.10 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+marcbreneiser     3831   0.0  0.0 426970000   7984   ??  S    Sun08AM   0:00.11 /System/Library/PrivateFrameworks/PrivateCloudCompute.framework/privatecloudcomputed.app/Contents/MacOS/privatecloudcomputed
+_assetcache       3830   0.0  0.0 426969392   7072   ??  Ss   Sun08AM   0:00.28 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -d
+root              3829   0.0  0.0 426967456   7888   ??  Ss   Sun08AM   0:00.06 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XProtectUpdateService.xpc/Contents/MacOS/XProtectUpdateService
+root              3828   0.0  0.0 426928944   3120   ??  Ss   Sun08AM   0:00.03 /usr/libexec/tzd
+marcbreneiser     3824   0.0  0.1 411202112  15248   ??  S    Sun08AM   0:00.88 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -x
+marcbreneiser     3799   0.0  0.0 410904272   4640   ??  Ss   Sun08AM   0:00.07 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+marcbreneiser     3796   0.0  0.0 410790128   4112   ??  S    Sun08AM   0:00.05 /System/Library/Frameworks/MediaExtension.framework/Versions/A/Helpers/MENotificationAgent
+marcbreneiser     3795   0.0  0.0 426967024   6256   ??  S    Sun08AM   0:00.11 /usr/libexec/MTLAssetUpgraderD
+marcbreneiser     3781   0.0  0.1 426977744  17712   ??  S    Sun08AM   0:01.17 /usr/libexec/proactived
+marcbreneiser     3777   0.0  0.1 426978048  31264   ??  S    Sun08AM   0:01.56 /System/Library/PrivateFrameworks/DataAccess.framework/Support/dataaccessd
+marcbreneiser     3772   0.0  0.0 426928816   1792   ??  S    Sun08AM   0:00.01 /System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher
+root              3748   0.0  0.0 426929232   2208   ??  Ss   Sun08AM   0:00.02 /System/Library/CoreServices/ReportCrash daemon
+root              3747   0.0  0.1 426979104  33600   ??  Ss   Sun08AM   0:29.58 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+_rmd              3745   0.0  0.0 410763168   4480   ??  Ss   Sun08AM   0:00.06 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagedConfigurationFilesSubscriber.xpc/Contents/MacOS/ManagedConfigurationFilesSubscriber
+_rmd              3744   0.0  0.0 410763520   4096   ??  Ss   Sun08AM   0:00.06 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagementTestSubscriber.xpc/Contents/MacOS/ManagementTestSubscriber
+_rmd              3743   0.0  0.0 410772336   6000   ??  Ss   Sun08AM   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/SoftwareUpdateSubscriber.xpc/Contents/MacOS/SoftwareUpdateSubscriber
+_rmd              3742   0.0  0.0 410771744   4192   ??  Ss   Sun08AM   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/DiskManagementSubscriber.xpc/Contents/MacOS/DiskManagementSubscriber
+_rmd              3741   0.0  0.0 410771760   4192   ??  Ss   Sun08AM   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/PasscodeSettingsSubscriber.xpc/Contents/MacOS/PasscodeSettingsSubscriber
+_rmd              3740   0.0  0.0 410894608   4176   ??  Ss   Sun08AM   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/LegacyProfilesSubscriber.xpc/Contents/MacOS/LegacyProfilesSubscriber
+_rmd              3739   0.0  0.0 410772240   6176   ??  Ss   Sun08AM   0:00.08 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ScreenSharingSubscriber.xpc/Contents/MacOS/ScreenSharingSubscriber
+_rmd              3738   0.0  0.0 410771712   4208   ??  Ss   Sun08AM   0:00.06 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/InteractiveLegacyProfilesSubscriber.xpc/Contents/MacOS/InteractiveLegacyProfilesSubscriber
+_rmd              3737   0.0  0.0 426932880   2160   ??  S    Sun08AM   0:01.06 /usr/sbin/distnoted agent
+_rmd              3736   0.0  0.0 410902848   4160   ??  Ss   Sun08AM   0:00.05 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/SecuritySubscriber.xpc/Contents/MacOS/SecuritySubscriber
+_rmd              3735   0.0  0.0 426968080   6944   ??  Ss   Sun08AM   0:00.12 /System/Library/PrivateFrameworks/RemoteManagement.framework/remotemanagementd
+marcbreneiser     3724   0.0  0.1 426975360  13056   ??  S    Sun08AM   0:00.36 /System/Library/PrivateFrameworks/DeviceCheckInternal.framework/devicecheckd
+marcbreneiser     3722   0.0  0.0 426972752  10816   ??  S    Sun08AM   0:01.13 /System/Library/PrivateFrameworks/MapsSync.framework/mapssyncd
+marcbreneiser     3695   0.0  0.2 444219840  47584   ??  S    Sun08AM   0:01.36 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/135.0.7049.96/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --shared-files --metrics-shmem-handle=1752395122,r,3245014632102066010,11336066647756137214,524288 --field-trial-handle=1718379636,r,1488474953881809899,8969807607602963176,262144 --variations-seed-version=20250417-180112.233000 --seatbelt-client=52
+marcbreneiser     3694   0.0  0.3 444435632  75920   ??  S    Sun08AM   0:07.26 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/135.0.7049.96/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --shared-files --metrics-shmem-handle=1752395122,r,3285979566347881244,11839270642872017395,524288 --field-trial-handle=1718379636,r,1488474953881809899,8969807607602963176,262144 --variations-seed-version=20250417-180112.233000 --seatbelt-client=25
+marcbreneiser     3693   0.0  0.4 444594800  99728   ??  S    Sun08AM   2:23.07 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/135.0.7049.96/Helpers/Google Chrome Helper (GPU).app/Contents/MacOS/Google Chrome Helper (GPU) --type=gpu-process --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAMAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --metrics-shmem-handle=1752395122,r,8176766768296174438,7452392151685526338,262144 --field-trial-handle=1718379636,r,1488474953881809899,8969807607602963176,262144 --variations-seed-version=20250417-180112.233000 --seatbelt-client=25
+marcbreneiser     3689   0.0  0.0 443710192   3552   ??  S    Sun08AM   0:00.03 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/135.0.7049.96/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/marcbreneiser/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=135.0.7049.96 --handshake-fd=5
+marcbreneiser     3645   0.0  0.0 426928992   1568   ??  S    Sun08AM   0:00.02 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fudHelperAgent
+marcbreneiser     3640   0.0  0.1 426974304  13664   ??  S    Sun08AM   1:06.55 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+marcbreneiser     3638   0.0  0.0 426966400   5968   ??  Ss   Sun08AM   0:00.18 /System/Library/Frameworks/Intents.framework/XPCServices/intents_helper.xpc/Contents/MacOS/intents_helper
+marcbreneiser     3637   0.0  0.0 426967008   8704   ??  S    Sun08AM   0:00.14 /System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd
+marcbreneiser     3636   0.0  0.0 426933296   7664   ??  S    Sun08AM   0:00.06 /usr/libexec/feedbackd
+_modelmanagerd    3635   0.0  0.0 427019024   8640   ??  Ss   Sun08AM   0:00.18 /System/Library/ExtensionKit/Extensions/TGOnDeviceInferenceProviderService.appex/Contents/MacOS/TGOnDeviceInferenceProviderService
+_modelmanagerd    3634   0.0  0.0 426932880   2176   ??  S    Sun08AM   0:01.09 /usr/sbin/distnoted agent
+_modelmanagerd    3633   0.0  0.0 427070416   8976   ??  Ss   Sun08AM   0:12.06 /System/Library/ExtensionKit/Extensions/TGOnDeviceInferenceProviderService.appex/Contents/MacOS/TGOnDeviceInferenceProviderService
+marcbreneiser     3632   0.0  0.0 426953568   3680   ??  Ss   Sun08AM   0:00.21 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+marcbreneiser     3631   0.0  0.0 426967520   9600   ??  S    Sun08AM   0:00.12 /System/Library/PrivateFrameworks/WeatherDaemon.framework/weatherd
+marcbreneiser     3630   0.0  0.1 426979728  14816   ??  S    Sun08AM   0:00.64 /usr/libexec/adprivacyd
+marcbreneiser     3622   0.0  0.0 426942720   7968   ??  Ss   Sun08AM   0:00.02 /System/Library/ExtensionKit/Extensions/IFTranscriptSELFIngestor.appex/Contents/MacOS/IFTranscriptSELFIngestor
+marcbreneiser     3621   0.0  0.0 426942864   7632   ??  Ss   Sun08AM   0:00.02 /System/Library/ExtensionKit/Extensions/IFTelemetrySELFIngestor.appex/Contents/MacOS/IFTelemetrySELFIngestor
+marcbreneiser     3620   0.0  0.0 426976224   9088   ??  Ss   Sun08AM   0:00.02 /System/Library/ExtensionKit/Extensions/GMSSELFIngestor.appex/Contents/MacOS/GMSSELFIngestor
+marcbreneiser     3619   0.0  0.0 426942720   8288   ??  Ss   Sun08AM   0:00.04 /System/Library/ExtensionKit/Extensions/BiomeSELFIngestor.appex/Contents/MacOS/BiomeSELFIngestor
+marcbreneiser     3618   0.0  0.0 426933504   4784   ??  Ss   Sun08AM   0:00.09 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+marcbreneiser     3617   0.0  0.0 410815488  11632   ??  Ss   Sun08AM   0:00.11 /System/Library/PrivateFrameworks/SiriAnalytics.framework/Versions/A/XPCServices/SAExtensionOrchestrator.xpc/Contents/MacOS/SAExtensionOrchestrator
+marcbreneiser     3616   0.0  0.0 426973312  10640   ??  S    Sun08AM   0:00.35 /System/Library/PrivateFrameworks/TextToSpeechVoiceBankingSupport.framework/Support/voicebankingd
+marcbreneiser     3614   0.0  0.0 410652928   4592   ??  Ss   Sun08AM   0:00.03 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+marcbreneiser     3615   0.0  0.0 410464464   2400   ??  Ss   Sun08AM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+marcbreneiser     3613   0.0  0.0 410333392   2400   ??  Ss   Sun08AM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+marcbreneiser     3612   0.0  0.0 410315984   2400   ??  Ss   Sun08AM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+marcbreneiser     3611   0.0  0.0 410323152   2400   ??  Ss   Sun08AM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root              3610   0.0  0.0 426932384   2656   ??  Ss   Sun08AM   0:00.03 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+marcbreneiser     3609   0.0  0.0 410262896   9648   ??  Ss   Sun08AM   0:00.02 /System/Library/PrivateFrameworks/TextToSpeech.framework/PlugIns/SiriAUSP.appex/Contents/MacOS/SiriAUSP -AppleLanguages ("en-US")
+marcbreneiser     3608   0.0  0.0 410369440   9360   ??  Ss   Sun08AM   0:00.02 /System/Library/PrivateFrameworks/TextToSpeechKonaSupport.framework/Versions/A/PlugIns/KonaSynthesizer.appex/Contents/MacOS/KonaSynthesizer -AppleLanguages ("en-US")
+marcbreneiser     3607   0.0  0.0 410403824   9584   ??  Ss   Sun08AM   0:00.03 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/WardaSynthesizer_arm64.appex/Contents/MacOS/WardaSynthesizer_arm64 -AppleLanguages ("en-US")
+marcbreneiser     3606   0.0  0.0 410659072   4592   ??  Ss   Sun08AM   0:00.03 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+marcbreneiser     3605   0.0  0.0 410311888   2400   ??  Ss   Sun08AM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+marcbreneiser     3603   0.0  0.0 410903008   2848   ??  Ss   Sun08AM   0:00.08 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/AUCrashHandlerService.xpc/Contents/MacOS/AUCrashHandlerService
+marcbreneiser     3604   0.0  0.0 34062512   1716   ??  Ss   Sun08AM   0:00.15 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/WardaSynthesizer_x86_64.appex/Contents/MacOS/WardaSynthesizer_x86_64 -AppleLanguages ("en-US")
+marcbreneiser     3602   0.0  0.0 410312912   2400   ??  Ss   Sun08AM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+marcbreneiser     3601   0.0  0.1 410806304  12704   ??  Ss   Sun08AM   0:00.08 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/MacinTalkAUSP.appex/Contents/MacOS/MacinTalkAUSP -AppleLanguages ("en-US")
+marcbreneiser     3600   0.0  0.0 410543664  11712   ??  Ss   Sun08AM   0:00.07 /System/Library/PrivateFrameworks/TextToSpeechMauiSupport.framework/Versions/A/PlugIns/MauiAUSP.appex/Contents/MacOS/MauiAUSP -AppleLanguages ("en-US")
+root              3599   0.0  0.0 426966448   5008   ??  Ss   Sun08AM   0:00.69 /usr/libexec/triald_system
+marcbreneiser     3598   0.0  0.1 411498464  29600   ??  Ss   Sun08AM   0:02.44 /System/Library/PrivateFrameworks/AppPredictionFoundation.framework/Versions/A/XPCServices/AppPredictionIntentsHelperService.xpc/Contents/MacOS/AppPredictionIntentsHelperService
+marcbreneiser     3596   0.0  0.0 410198240   2176   ??  Ss   Sun08AM   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.ComponentTagHelper.xpc/Contents/MacOS/com.apple.audio.ComponentTagHelper
+marcbreneiser     3597   0.0  0.0 431292304   8176   ??  S    Sun08AM   0:00.27 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/reversetemplated
+marcbreneiser     3595   0.0  0.0 426977584  11008   ??  Ss   Sun08AM   0:00.05 /System/Applications/Calendar.app/Contents/Extensions/CalendarIntentsExtension.appex/Contents/MacOS/CalendarIntentsExtension
+marcbreneiser     3594   0.0  0.0 426933616   4768   ??  Ss   Sun08AM   0:00.03 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+marcbreneiser     3592   0.0  0.0 426953568   3664   ??  Ss   Sun08AM   0:00.05 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+marcbreneiser     3591   0.0  0.0 426953568   3664   ??  Ss   Sun08AM   0:00.05 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+_accessoryupdater  3589   0.0  0.0 426965552   3072   ??  S    Sun08AM   0:00.07 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+marcbreneiser     3588   0.0  0.0 426969520   7248   ??  Ss   Sun08AM   0:05.37 /System/Library/PrivateFrameworks/MessagesBlastDoorSupport.framework/Versions/A/XPCServices/MessagesBlastDoorService.xpc/Contents/MacOS/MessagesBlastDoorService
+marcbreneiser     3587   0.0  0.0 426987712   6736   ??  Ss   Sun08AM   0:01.16 /System/Library/PrivateFrameworks/IMTranscoding.framework/XPCServices/IMTranscoderAgent.xpc/Contents/MacOS/IMTranscoderAgent
+marcbreneiser     3586   0.0  0.0 410321104   2400   ??  Ss   Sun08AM   0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+marcbreneiser     3585   0.0  0.0 426969280   4016   ??  S    Sun08AM   0:00.19 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+marcbreneiser     3584   0.0  0.0 426966992   9264   ??  S    Sun08AM   0:01.87 /System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/Versions/A/ModelCatalogAgent
+marcbreneiser     3583   0.0  0.0 410678528   4608   ??  Ss   Sun08AM   0:00.10 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+marcbreneiser     3582   0.0  0.0 426966768   7696   ??  S    Sun08AM   0:00.05 /System/Library/PrivateFrameworks/LockdownMode.framework/Versions/A/XPCServices/lockdownmoded
+root              3581   0.0  0.0 426972032  10496   ??  Ss   Sun08AM   0:00.33 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+marcbreneiser     2313   0.0  0.0 426968576  12336   ??  S    Sun08AM   0:02.87 /System/Library/PrivateFrameworks/AXAssetLoader.framework/Support/axassetsd
+marcbreneiser     2248   0.0  0.1 426968320  14544   ??  S    Sun08AM   0:01.31 /System/Library/CoreServices/diagnostics_agent
+marcbreneiser      717   0.0  0.0 426933360   4432   ??  S    Sun08AM   0:00.04 /System/Library/Frameworks/FamilyControls.framework/Versions/A/FamilyControlsAgent
+marcbreneiser     3578   0.0  0.0 426967008   9808   ??  S    Sun08AM   0:00.74 /System/Library/PrivateFrameworks/CascadeSets.framework/Versions/A/XPCServices/SetStoreUpdateService.xpc/Contents/MacOS/SetStoreUpdateService
+marcbreneiser     3577   0.0  0.1 412147376  26784   ??  S    Sun08AM   0:02.02 /System/Library/CoreServices/Family.app/Contents/MacOS/Family
+_accessoryupdater  3571   0.0  0.0 426969232   5552   ??  S    Sun08AM   0:00.18 /usr/libexec/trustd --agent
+marcbreneiser     3566   0.0  0.0 411427264   3216   ??  Ss   Sun08AM   0:00.09 /System/Library/PrivateFrameworks/StreamingZip.framework/Versions/A/XPCServices/com.apple.StreamingUnzipService.xpc/Contents/MacOS/com.apple.StreamingUnzipService
+root               759   0.0  0.0 426967280  10992   ??  Ss   Sun08AM   0:00.97 /System/Library/PrivateFrameworks/EcosystemAnalytics.framework/Support/ecosystemanalyticsd
+marcbreneiser     3537   0.0  0.0 411485312  11728   ??  Ss   Sun08AM   0:00.29 /System/Library/PrivateFrameworks/StocksKit.framework/XPCServices/StocksKitService.xpc/Contents/MacOS/StocksKitService
+marcbreneiser     3565   0.0  0.1 427100816  16912   ??  S    Sun08AM   0:07.84 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -u
+_accessoryupdater  3564   0.0  0.0 426932928   3056   ??  S    Sun08AM   0:00.22 /usr/sbin/cfprefsd agent
+root               699   0.0  0.1 426974800  13392   ??  Ss   Sun08AM   0:01.06 /System/Library/CoreServices/SubmitDiagInfo server-init
+marcbreneiser     3553   0.0  0.1 427129920  34576   ??  S    Sun08AM   0:00.37 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/SoftwareUpdateNotificationManager.app/Contents/MacOS/SoftwareUpdateNotificationManager
+marcbreneiser     3551   0.0  0.0 426969008   9584   ??  S    Sun08AM   0:00.18 /System/Library/Frameworks/ClassKit.framework/Versions/A/progressd
+marcbreneiser     3550   0.0  0.0 426971152   8880   ??  S    Sun08AM   0:00.24 /usr/libexec/keyboardservicesd
+marcbreneiser     3549   0.0  0.1 427025152  22544   ??  S    Sun08AM   0:03.22 /usr/libexec/naturallanguaged
+marcbreneiser     3548   0.0  0.7 427589216 175136   ??  S    Sun08AM   0:21.79 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+marcbreneiser     3547   0.0  0.1 426975216  16832   ??  S    Sun08AM   0:02.10 /System/Library/PrivateFrameworks/People.framework/peopled
+marcbreneiser     3546   0.0  0.0 426967136   5856   ??  Ss   Sun08AM   0:00.20 /System/Library/PrivateFrameworks/MessagesBlastDoorSupport.framework/Versions/A/XPCServices/MessagesBlastDoorService.xpc/Contents/MacOS/MessagesBlastDoorService
+_fpsd             3545   0.0  0.0 427004720   5584   ??  Ss   Sun08AM   0:01.68 /usr/libexec/fairplaydeviceidentityd
+marcbreneiser     3542   0.0  0.1 426975424  14512   ??  S    Sun08AM   0:00.59 /usr/libexec/promotedcontentd
+marcbreneiser     3539   0.0  0.0 426965904   3472   ??  S    Sun08AM   0:00.04 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsagent
+marcbreneiser     3540   0.0  0.1 426986368  33232   ??  S    Sun08AM   0:08.26 /usr/libexec/siriknowledged
+marcbreneiser     3538   0.0  0.1 426982384  17504   ??  S    Sun08AM   0:09.41 /usr/libexec/milod
+marcbreneiser     3530   0.0  0.1 411497152  29696   ??  Ss   Sun08AM   0:00.54 /System/Library/PrivateFrameworks/SiriSuggestionsSupport.framework/Versions/A/XPCServices/SiriSuggestionsBookkeepingService.xpc/Contents/MacOS/SiriSuggestionsBookkeepingService
+_accessoryupdater  3536   0.0  0.0 426967648   5024   ??  S    Sun08AM   0:00.07 /usr/libexec/secinitd
+marcbreneiser     3535   0.0  0.2 427015040  46432   ??  S    Sun08AM   1:33.82 /usr/libexec/duetexpertd
+_netbios          3534   0.0  0.0 426966528   2912   ??  SNs  Sun08AM   0:00.25 /usr/sbin/netbiosd
+root              3519   0.0  0.0 411468592   8608   ??  Ss   Sun08AM   0:00.43 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+root              3520   0.0  0.0 411462416  11584   ??  Ss   Sun08AM   0:00.13 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XProtectBridgeService.xpc/Contents/MacOS/XProtectBridgeService
+_captiveagent     3533   0.0  0.0 426967888   6288   ??  Ss   Sun08AM   0:00.24 /usr/libexec/captiveagent
+_accessoryupdater  3532   0.0  0.0 426970960  10272   ??  S    Sun08AM   0:01.08 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+marcbreneiser     3531   0.0  0.0 426932976   5040   ??  S    Sun08AM   0:01.33 /usr/libexec/gamecontrolleragentd
+_accessoryupdater  3522   0.0  0.0 426933168   3728   ??  Ss   Sun08AM   0:00.08 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/ThunderboltAccessoryUpdaterService.xpc/Contents/MacOS/ThunderboltAccessoryUpdaterService
+marcbreneiser     3528   0.0  0.0 410323152   2400   ??  Ss   Sun08AM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+_audiomxd         3527   0.0  0.0 426965520   8736   ??  Ss   Sun08AM   0:00.08 /usr/libexec/audiomxd
+marcbreneiser     3526   0.0  0.1 426987312  14336   ??  S    Sun08AM   0:00.30 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Support/BackgroundTaskManagementAgent.app/Contents/MacOS/BackgroundTaskManagementAgent
+root              3508   0.0  0.0 426911792   5184   ??  Ss   Sun08AM   0:00.14 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+_gamecontrollerd  3502   0.0  0.0 426932880   2160   ??  S    Sun08AM   0:01.10 /usr/sbin/distnoted agent
+marcbreneiser     3499   0.0  0.1 426976432  14992   ??  S    Sun08AM   0:01.80 cloudphotod
+root              3498   0.0  0.0 426967264   7440   ??  Ss   Sun08AM   0:00.81 /usr/libexec/countryd
+marcbreneiser     3496   0.0  0.0 426974336  12384   ??  S    Sun08AM   0:00.28 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistorySyncHelper
+marcbreneiser     3494   0.0  0.1 411337536  16608   ??  Ss   Sun08AM   0:00.50 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+marcbreneiser     2325   0.0  0.0 426969904  11376   ??  S    Sun08AM   0:00.87 /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/askpermissiond
+marcbreneiser     3495   0.0  0.0 426971184   7024   ??  S    Sun08AM   0:00.46 /System/Library/CoreServices/appplaceholdersyncd
+marcbreneiser     3492   0.0  0.1 426977344  14528   ??  SN   Sun08AM   0:02.13 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+root              3487   0.0  0.1 411203376  13264   ??  Ss   Sun08AM   0:00.30 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+_driverkit        3461   0.0  0.0 426851568    816   ??  Ss   Sun08AM   0:00.03 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000fc4 com.apple.IOUserBluetoothSerialDriver
+marcbreneiser     3460   0.0  0.0 426932912   4224   ??  S    Sun08AM   0:00.04 /System/Library/PrivateFrameworks/CoreThreadCommissionerService.framework/CoreThreadCommissionerServiced
+_fpsd             3458   0.0  0.1 426948352  14240   ??  Ss   Sun08AM   0:00.13 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fairplayd
+root              2775   0.0  0.0 426968160   6096   ??  S    Sun08AM   0:00.21 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+marcbreneiser     2630   0.0  0.0 426996864  10064   ??  Ss   Sun08AM   0:00.40 /System/Library/Frameworks/Speech.framework/Versions/A/XPCServices/localspeechrecognition.xpc/Contents/MacOS/localspeechrecognition
+root              2511   0.0  0.0 410772272   2736   ??  Ss   Sun08AM   0:00.04 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Versions/A/XPCServices/com.apple.AppStoreDaemon.StorePrivilegedODRService.xpc/Contents/MacOS/com.apple.AppStoreDaemon.StorePrivilegedODRService
+_installcoordinationd  2474   0.0  0.0 426933296   4832   ??  Ss   Sun08AM   0:00.05 /System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd
+marcbreneiser     2410   0.0  0.0 426932528   3776   ??  S    Sun08AM   0:00.05 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+marcbreneiser     2389   0.0  0.1 427023840  20112   ??  S    Sun08AM   0:01.04 /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+marcbreneiser     2311   0.0  0.1 426999376  20112   ??  S    Sun08AM   0:01.18 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+marcbreneiser     2321   0.0  0.0 426966416   3696   ??  S    Sun08AM   0:00.08 /System/Library/Image Capture/Support/icdd
+marcbreneiser     2310   0.0  0.1 426980832  37040   ??  S    Sun08AM   0:04.84 /System/Library/PrivateFrameworks/HearingCore.framework/heard
+marcbreneiser     2329   0.0  0.1 411918592  14912   ??  S    Sun08AM   0:00.24 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+marcbreneiser     2331   0.0  0.2 412127120  52288   ??  S    Sun08AM   0:01.64 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+root              2334   0.0  0.0 426932496   3088   ??  Ss   Sun08AM   0:00.06 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+root              2309   0.0  0.0 426928832   1760   ??  Ss   Sun08AM   0:00.01 /System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent
+root              2250   0.0  0.0 426932944   3024   ??  Ss   Sun08AM   0:00.38 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+root              2247   0.0  0.0 426932944   3072   ??  Ss   Sun08AM   0:00.37 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
+marcbreneiser     2228   0.0  0.1 427016384  33472   ??  S    Sun08AM   0:02.63 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+root              2225   0.0  0.0 426940640   3136   ??  Ss   Sun08AM   0:00.05 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheTetheratorService.xpc/Contents/MacOS/AssetCacheTetheratorService
+marcbreneiser     2195   0.0  0.0 426932960   2672   ??  S    Sun08AM   0:00.06 /System/Library/PrivateFrameworks/GeoServices.framework/geodMachServiceBridge
+_assetcache       2143   0.0  0.0 426968800   5968   ??  Ss   Sun08AM   0:00.10 /usr/libexec/AssetCache/AssetCache
+marcbreneiser     2142   0.0  0.0 426969408   8448   ??  S    Sun08AM   0:00.36 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+marcbreneiser     2139   0.0  0.2 427099824  50080   ??  S    Sun08AM   0:37.42 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+marcbreneiser      649   0.0  0.0 426970896  12272   ??  S    Sun08AM   0:00.34 /System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple.sbd
+marcbreneiser      594   0.0  0.1 426984896  25872   ??  S    Sun08AM   0:06.94 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
+marcbreneiser     1960   0.0  0.1 426983728  14224   ??  S    Sun08AM   0:00.27 /System/Library/Frameworks/StoreKit.framework/Support/storekitagent
+root              1950   0.0  0.0 426933984   2256   ??  Ss   Sun08AM   0:00.25 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+marcbreneiser     1903   0.0  0.1 426904896  14608   ??  Ss   Sun08AM   0:00.33 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+marcbreneiser     1831   0.0  0.2 411107984  52912   ??  Ss   Sun08AM   0:00.76 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+marcbreneiser     1830   0.0  0.0 410641392   8512   ??  S    Sun08AM   0:00.87 /usr/libexec/SidecarRelay
+root              1829   0.0  0.0 426967792  10112   ??  Ss   Sun08AM   0:03.13 /usr/libexec/wifianalyticsd
+marcbreneiser     1828   0.0  0.1 426978544  13456   ??  S    Sun08AM   0:00.42 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+marcbreneiser     1827   0.0  0.1 426981184  26032   ??  S    Sun08AM   0:35.57 /System/Library/CoreServices/UniversalControl.app/Contents/MacOS/UniversalControl
+root              1826   0.0  0.0 426932944   2848   ??  Ss   Sun08AM   0:01.57 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
+marcbreneiser     1825   0.0  0.0 410198288   2656   ??  Ss   Sun08AM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+marcbreneiser     1824   0.0  0.1 426971136  12928   ??  S    Sun08AM   0:00.53 /usr/libexec/swtransparencyd
+marcbreneiser     1823   0.0  0.2 427094640  44592   ??  Ss   Sun08AM   0:00.37 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+marcbreneiser     1822   0.0  0.0 426932944   4064   ??  Ss   Sun08AM   0:00.03 /System/Library/Frameworks/ImageIO.framework/Versions/A/XPCServices/ImageIOXPCService.xpc/Contents/MacOS/ImageIOXPCService
+marcbreneiser     1821   0.0  2.0 500664848 491104   ??  Ss   Sun08AM   2:38.69 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+marcbreneiser     1820   0.0  0.5 411478800 125200   ??  Ss   Sun08AM   0:22.66 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+marcbreneiser     1819   0.0  0.0 410480848   2400   ??  Ss   Sun08AM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+marcbreneiser     1394   0.0  0.0 426966688  10400   ??  S    Sun08AM   0:00.20 /usr/libexec/inputanalyticsd
+marcbreneiser     1252   0.0  0.0 426932832   4976   ??  S    Sun08AM   0:00.25 /usr/sbin/BTLEServerAgent
+marcbreneiser     1126   0.0  0.1 426996192  15968   ??  Ss   Sun08AM   0:00.83 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension -AppleLanguages ("en-US")
+marcbreneiser     1073   0.0  0.0 410712384   8176   ??  S    Sun08AM   0:00.05 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+marcbreneiser      912   0.0  0.1 426976704  13600   ??  S    Sun08AM   0:00.39 /System/Library/CoreServices/ScopedBookmarkAgent
+marcbreneiser      830   0.0  0.0 410460400   2256   ??  Ss   Sun08AM   0:00.01 /System/Library/PrivateFrameworks/WiFiPolicy.framework/XPCServices/WiFiCloudAssetsXPCService.xpc/Contents/MacOS/WiFiCloudAssetsXPCService
+marcbreneiser      823   0.0  0.1 427057344  32896   ??  S    Sun08AM   0:26.43 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd
+marcbreneiser      822   0.0  0.0 426966976   9808   ??  S    Sun08AM   0:01.21 /System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd
+marcbreneiser      794   0.0  0.0 411202112   5040 s002  S    Sun08AM   0:00.41 -zsh
+marcbreneiser      790   0.0  0.2 427074944  40688   ??  S    Sun08AM   0:00.72 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+marcbreneiser      786   0.0  0.0 411202224   4928 s001  S+   Sun08AM   0:00.40 -zsh
+root               789   0.0  0.0 410752944   3328 s002  Ss   Sun08AM   0:00.01 login -pfl marcbreneiser /bin/bash -c exec -la zsh /bin/zsh
+_applepay          780   0.0  0.0 426932880   2176   ??  S    Sun08AM   0:01.12 /usr/sbin/distnoted agent
+root               783   0.0  0.0 410752944   3328 s001  Ss   Sun08AM   0:00.01 login -pfl marcbreneiser /bin/bash -c exec -la zsh /bin/zsh
+marcbreneiser      782   0.0  0.0 411202224   1616 s000  S+   Sun08AM   0:00.36 -zsh
+root               781   0.0  0.0 410324176   2400   ??  Ss   Sun08AM   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+_applepay          778   0.0  0.0 410808112   3824   ??  Ss   Sun08AM   0:00.02 /System/Library/PrivateFrameworks/NearFieldPrivateServices.framework/Versions/A/XPCServices/NFStorageServer.xpc/Contents/MacOS/NFStorageServer
+root               779   0.0  0.0 410752944   3328 s000  Ss   Sun08AM   0:00.01 login -pfl marcbreneiser /bin/bash -c exec -la zsh /bin/zsh
+root               777   0.0  0.0 410772608   3200   ??  Ss   Sun08AM   0:00.08 /usr/libexec/online-auth-agent
+marcbreneiser      776   0.0  0.1 431383232  18768   ??  S    Sun08AM   0:12.15 /System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd
+marcbreneiser      775   0.0  0.1 426973632  16656   ??  S    Sun08AM   0:01.92 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd
+marcbreneiser      774   0.0  0.0 426966224   9232   ??  S    Sun08AM   0:00.12 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+marcbreneiser      771   0.0  0.0 426988544  10672   ??  S    Sun08AM   0:35.65 /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service
+marcbreneiser      772   0.0  0.1 426976112  15152   ??  S    Sun08AM   0:01.43 /usr/libexec/swcd
+marcbreneiser      770   0.0  0.0 427174512   8832   ??  S    Sun08AM   0:00.35 /System/Library/PrivateFrameworks/EmailDaemon.framework/Versions/A/maild
+marcbreneiser      769   0.0  0.0 427162640   4176   ??  S    Sun08AM   0:00.05 /System/Cryptexes/App/usr/libexec/webpushd --machServiceName com.apple.webkit.webpushd.service
+marcbreneiser      766   0.0  0.1 426972480  17936   ??  S    Sun08AM   0:00.76 /System/Library/PrivateFrameworks/iTunesCloud.framework/Support/itunescloudd
+marcbreneiser      765   0.0  0.0 426933120   4976   ??  S    Sun08AM   0:00.09 /usr/libexec/keychainsharingmessagingd
+marcbreneiser      763   0.0  0.0 426966272   6416   ??  S    Sun08AM   0:00.07 /System/Cryptexes/App/usr/libexec/SafariLaunchAgent
+marcbreneiser      764   0.0  0.1 426905696  16224   ??  Ss   Sun08AM   0:00.32 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/XPCServices/com.apple.Safari.SandboxBroker.xpc/Contents/MacOS/com.apple.Safari.SandboxBroker
+marcbreneiser      762   0.0  0.0 426928304   2032   ??  S    Sun08AM   0:00.02 /System/Library/Frameworks/ColorSync.framework/Support/colorsync.useragent
+_fpsd              761   0.0  0.0 426936304   5504   ??  Ss   Sun08AM   0:01.78 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+_applepay          760   0.0  0.0 426968784   8592   ??  Ss   Sun08AM   0:00.86 /usr/libexec/nfcd
+_oahd              758   0.0  0.0 426929152   1520   ??  Ss   Sun08AM   0:00.05 /usr/libexec/rosetta/oahd
+marcbreneiser      757   0.0  0.0 427132016   8848   ??  Ss   Sun08AM   0:00.83 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper
+marcbreneiser      746   0.0  0.0 34030128   1276   ??  Ss   Sun08AM   0:01.05 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/CarbonComponentScannerXPC.xpc/Contents/MacOS/CarbonComponentScannerXPC
+marcbreneiser      756   0.0  0.0 426969104  10864   ??  S    Sun08AM   0:03.35 /System/Library/Frameworks/Translation.framework/translationd
+marcbreneiser      755   0.0  0.4 435284336 108128   ??  Ss   Sun08AM   3:07.52 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+marcbreneiser      754   0.0  0.2 431642096  59824   ??  Ss   Sun08AM   2:41.04 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+marcbreneiser      753   0.0  0.0 426911696   5184   ??  Ss   Sun08AM   0:00.05 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+marcbreneiser      751   0.0  0.0 426970512  10704   ??  S    Sun08AM   0:00.17 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+marcbreneiser      752   0.0  0.0 426933488   1808   ??  Ss   Sun08AM   0:00.01 /System/Library/PrivateFrameworks/login.framework/Versions/A/XPCServices/LoginUserService.xpc/Contents/MacOS/LoginUserService
+marcbreneiser      718   0.0  0.2 427130064  40464   ??  S    Sun08AM   0:18.44 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+marcbreneiser      750   0.0  0.0 426957664   3680   ??  Ss   Sun08AM   0:00.16 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+marcbreneiser      749   0.0  0.0 426957664   3648   ??  Ss   Sun08AM   0:00.10 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+marcbreneiser      748   0.0  0.1 412032464  19552   ??  Ss   Sun08AM   0:03.38 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+marcbreneiser      747   0.0  0.1 426923552  13680   ??  S    Sun08AM   0:00.54 /usr/libexec/avconferenced
+marcbreneiser      745   0.0  0.1 426997904  16496   ??  S    Sun08AM   0:01.74 /usr/libexec/replayd
+marcbreneiser      744   0.0  0.0 426965872   8080   ??  S    Sun08AM   0:01.07 /System/Library/PrivateFrameworks/MobileTimer.framework/Executables/mobiletimerd
+marcbreneiser      743   0.0  0.1 426990176  23824   ??  S    Sun08AM   0:01.31 /System/Library/PrivateFrameworks/PassKitCore.framework/passd
+marcbreneiser      741   0.0  0.0 426928272   3632   ??  S    Sun08AM   0:00.02 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+marcbreneiser      740   0.0  0.1 426971216  14352   ??  S    Sun08AM   0:00.33 /usr/libexec/intelligentroutingd
+marcbreneiser      738   0.0  0.3 432306080  81616   ??  S    Sun08AM   0:13.63 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+marcbreneiser      742   0.0  0.1 412238752  23600   ??  S    Sun08AM   0:07.04 /System/Library/PrivateFrameworks/TextInputUIMacHelper.framework/Versions/A/XPCServices/CursorUIViewService.xpc/Contents/MacOS/CursorUIViewService
+marcbreneiser      737   0.0  0.1 426971040  15360   ??  S    Sun08AM   0:01.32 /System/Library/PrivateFrameworks/iCloudNotification.framework/iCloudNotificationAgent
+marcbreneiser      736   0.0  0.1 427081664  27568   ??  S    Sun08AM   0:32.01 /usr/libexec/networkserviceproxy
+_nearbyd           739   0.0  0.1 426980000  15696   ??  Ss   Sun08AM   0:10.66 /usr/libexec/nearbyd
+marcbreneiser      735   0.0  0.1 427132352  19200   ??  S    Sun08AM   0:02.43 /System/Cryptexes/App/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+marcbreneiser      734   0.0  0.1 426982144  22368   ??  S    Sun08AM   0:01.76 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+marcbreneiser      733   0.0  0.0 426966208  10272   ??  S    Sun08AM   0:00.11 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+marcbreneiser      732   0.0  0.0 426932960   2784   ??  S    Sun08AM   0:00.05 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+marcbreneiser      731   0.0  0.1 426996736  26400   ??  S    Sun08AM   0:01.31 /usr/libexec/linkd
+marcbreneiser      728   0.0  0.0 426976016   8496   ??  Ss   Sun08AM   0:00.56 /System/Library/PrivateFrameworks/iCloudDriveService.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+marcbreneiser      729   0.0  0.0 426976816  12496   ??  Ss   Sun08AM   0:00.12 /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.iCloudDriveFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.iCloudDriveFileProvider
+marcbreneiser      730   0.0  0.2 412309408  54784   ??  S    Sun08AM   0:06.08 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+root               727   0.0  0.0 426941168   1392   ??  Ss   Sun08AM   0:00.03 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+marcbreneiser      724   0.0  0.0 426970224   7648   ??  S    Sun08AM   0:00.31 /System/Library/PrivateFrameworks/WebPrivacy.framework/webprivacyd
+marcbreneiser      726   0.0  0.0 426966272   7696   ??  S    Sun08AM   0:00.08 /System/Cryptexes/App/usr/libexec/SafariNotificationAgent
+marcbreneiser      723   0.0  0.0 426933616   4800   ??  Ss   Sun08AM   0:00.03 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+marcbreneiser      722   0.0  0.0 426967648   5008   ??  Ss   Sun08AM   0:00.40 /System/Library/Frameworks/ImageIO.framework/Versions/A/XPCServices/ImageIOXPCService.xpc/Contents/MacOS/ImageIOXPCService
+marcbreneiser      720   0.0  0.1 427089424  14544   ??  S    Sun08AM   0:01.18 /System/Cryptexes/App/usr/libexec/com.apple.Safari.History
+marcbreneiser      721   0.0  0.0 427136576   2288   ??  S    Sun08AM   0:00.03 /System/Library/CoreServices/ReportCrash agent
+marcbreneiser      719   0.0  0.0 426973792   9968   ??  S    Sun08AM   0:00.84 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
+marcbreneiser      716   0.0  0.3 410934608  66688   ??  Ss   Sun08AM   0:01.21 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+marcbreneiser      715   0.0  0.1 426976736  17088   ??  S    Sun08AM   0:03.53 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+marcbreneiser      714   0.0  0.0 426967648   9536   ??  S    Sun08AM   0:00.11 /usr/libexec/seserviced
+marcbreneiser      712   0.0  0.1 426987008  15360   ??  S    Sun08AM   0:00.29 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+root               711   0.0  0.1 426979280  16288   ??  Ss   Sun08AM   0:00.76 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd --system
+root               709   0.0  0.0 410329616   4048   ??  Ss   Sun08AM   0:00.02 /System/Library/PrivateFrameworks/WiFiPolicy.framework/XPCServices/WiFiCloudAssetsXPCService.xpc/Contents/MacOS/WiFiCloudAssetsXPCService
+marcbreneiser      710   0.0  0.0 426975872   7200   ??  S    Sun08AM   0:00.14 /System/Library/CoreServices/pbs
+marcbreneiser      706   0.0  0.0 410923456  10544   ??  Ss   Sun08AM   0:01.97 /System/Library/ExtensionKit/Extensions/WallpaperImageExtension.appex/Contents/MacOS/WallpaperImageExtension
+marcbreneiser      701   0.0  0.0 426978256   7264   ??  S    Sun08AM   0:00.22 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
+root               705   0.0  0.0 426990720   9184   ??  Ss   Sun08AM   0:00.21 /usr/sbin/systemsoundserverd
+marcbreneiser      704   0.0  0.0 426933616   4800   ??  Ss   Sun08AM   0:00.01 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+root               703   0.0  0.0 426928896   2560   ??  Ss   Sun08AM   0:00.01 /usr/libexec/wallpaperexportd
+root               702   0.0  0.0 426973328   8624   ??  Ss   Sun08AM   0:01.50 /System/Library/PrivateFrameworks/TVIdleServices.framework/idleassetsd
+root               700   0.0  0.0 426934160   1904   ??  Ss   Sun08AM   0:00.05 automountd
+marcbreneiser      697   0.0  0.1 427497680  31376   ??  S    Sun08AM   0:00.82 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+marcbreneiser      695   0.0  0.0 426929008   2704   ??  S    Sun08AM   0:00.02 /usr/libexec/spindump_agent
+root               698   0.0  0.1 426976976  16720   ??  Ss   Sun08AM   0:13.23 /usr/libexec/gamepolicyd
+marcbreneiser      696   0.0  0.1 426904896  14640   ??  Ss   Sun08AM   0:00.33 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+marcbreneiser      648   0.0  0.1 426968224  15552   ??  S    Sun08AM   0:04.37 /usr/libexec/ContinuityCaptureAgent server
+marcbreneiser      694   0.0  0.1 411947568  22832   ??  S    Sun08AM   0:00.79 /System/Library/CoreServices/WallpaperAgent.app/Contents/MacOS/WallpaperAgent
+marcbreneiser      690   0.0  0.2 412293104  50384   ??  S    Sun08AM   0:17.73 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+root               691   0.0  0.1 427006000  20768   ??  Ss   Sun08AM   0:14.18 /usr/sbin/spindump
+marcbreneiser      689   0.0  0.2 412193776  37904   ??  S    Sun08AM   0:00.45 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+marcbreneiser      687   0.0  0.1 411581264  12624   ??  S    Sun08AM   0:01.99 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+marcbreneiser      686   0.0  0.3 412389952  71344   ??  S    Sun08AM   0:43.37 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+marcbreneiser      685   0.0  0.2 412304384  37872   ??  S    Sun08AM   0:06.46 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+marcbreneiser      683   0.0  0.1 427052352  27600   ??  S    Sun08AM   0:00.85 /System/Library/CoreServices/iconservicesagent
+_gamecontrollerd   570   0.0  0.0 426933104   6000   ??  Ss   Sun08AM   0:01.40 /usr/libexec/gamecontrollerd
+marcbreneiser      681   0.0  0.5 412492240 120432   ??  S    Sun08AM   0:08.21 /Applications/Plain Text Editor.app/Contents/MacOS/Plain Text Editor
+marcbreneiser      679   0.0  0.1 426976784  19616   ??  S    Sun08AM   0:27.05 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+marcbreneiser      678   0.0  0.8 434690112 204736   ??  S    Sun08AM   6:04.40 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/MacOS/Safari
+marcbreneiser      677   0.0  0.1 426989840  13248   ??  S    Sun08AM   0:00.78 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker
+marcbreneiser      676   0.0  0.1 426988336  28976   ??  S    Sun08AM   0:09.47 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+root               675   0.0  0.1 426942560  14272   ??  Ss   Sun08AM   0:01.70 /usr/sbin/filecoordinationd
+root               674   0.0  0.1 426973184  14256   ??  Ss   Sun08AM   0:08.25 /usr/libexec/wifip2pd
+marcbreneiser      673   0.0  0.1 427007472  33952   ??  S    Sun08AM   0:29.53 /usr/libexec/searchpartyuseragent
+marcbreneiser      672   0.0  0.0 426967248  11440   ??  S    Sun08AM   0:01.90 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+root               671   0.0  0.1 426986800  15680   ??  Ss   Sun08AM   0:00.41 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSODaemon
+marcbreneiser      670   0.0  0.1 426978336  20320   ??  S    Sun08AM   0:03.13 /System/Library/PrivateFrameworks/iCloudDriveCore.framework/Versions/A/Support/bird
+marcbreneiser      669   0.0  0.1 412197168  37040   ??  S    Sun08AM   0:00.29 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/Contents/MacOS/AppSSOAgent
+marcbreneiser      668   0.0  0.1 411526864  25408   ??  S    Sun08AM   0:01.46 /System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem system_app_start
+marcbreneiser      667   0.0  0.1 427019488  36656   ??  S    Sun08AM   0:01.32 /System/Library/PrivateFrameworks/VoiceShortcuts.framework/Versions/A/Support/siriactionsd
+marcbreneiser      666   0.0  0.0 426967136  11648   ??  S    Sun08AM   0:00.18 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+marcbreneiser      665   0.0  0.1 426984416  22944   ??  S    Sun08AM   0:04.12 /System/Library/PrivateFrameworks/CalendarDaemon.framework/Support/calaccessd
+marcbreneiser      664   0.0  0.3 427186640  86656   ??  S    Sun08AM   0:44.18 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+marcbreneiser      663   0.0  0.0 426966800   9840   ??  S    Sun08AM   0:00.19 /System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app/Contents/MacOS/sociallayerd
+marcbreneiser      661   0.0  0.0 426972448  11712   ??  S    Sun08AM   0:03.22 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+marcbreneiser      662   0.0  0.2 427259456  62096   ??  Ss   Sun08AM   0:01.95 /System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget
+marcbreneiser      660   0.0  0.2 427101184  62128   ??  Ss   Sun08AM   0:08.53 /System/Applications/News.app/Contents/PlugIns/NewsToday2.appex/Contents/MacOS/NewsToday2 -AppleLanguages ("en-US")
+marcbreneiser      659   0.0  0.1 427016464  28544   ??  Ss   Sun08AM   0:04.38 /System/Applications/Clock.app/Contents/PlugIns/WorldClockWidget.appex/Contents/MacOS/WorldClockWidget
+marcbreneiser      658   0.0  0.2 427254208  60496   ??  Ss   Sun08AM   0:22.52 /System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget
+marcbreneiser      657   0.0  0.1 426968656  14032   ??  S    Sun08AM   0:01.40 /System/Library/CoreServices/sharedfilelistd
+marcbreneiser      656   0.0  0.1 427168224  22144   ??  Ss   Sun08AM   0:02.95 /System/Applications/Calendar.app/Contents/PlugIns/CalendarWidgetExtension.appex/Contents/MacOS/CalendarWidgetExtension
+marcbreneiser      655   0.0  0.0 426942672  11920   ??  Ss   Sun08AM   0:01.76 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+marcbreneiser      654   0.0  0.2 427041280  40944   ??  S    Sun08AM   0:07.38 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+marcbreneiser      653   0.0  0.0 410796768   7696   ??  Ss   Sun08AM   0:00.09 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/XPCServices/com.apple.FaceTime.FTConversationService.xpc/Contents/MacOS/com.apple.FaceTime.FTConversationService
+marcbreneiser      651   0.0  0.0 410800832  10272   ??  S    Sun08AM   0:00.48 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper
+marcbreneiser      652   0.0  0.0 426976192   8032   ??  S    Sun08AM   0:00.08 /System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd
+marcbreneiser      644   0.0  0.1 426974800  21888   ??  S    Sun08AM   0:00.60 /usr/libexec/appleaccountd
+marcbreneiser      647   0.0  0.2 427026864  45264   ??  S    Sun08AM   0:12.90 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+marcbreneiser      646   0.0  0.2 426988384  38544   ??  S    Sun08AM   0:03.77 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+marcbreneiser      643   0.0  0.1 426975376  14576   ??  S    Sun08AM   0:00.71 /usr/libexec/neagent
+marcbreneiser      642   0.0  0.2 426974336  45504   ??  S    Sun08AM   0:03.58 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+marcbreneiser      641   0.0  0.0 426965824   8336   ??  S    Sun08AM   0:00.35 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+marcbreneiser      640   0.0  0.1 426973872  16464   ??  S    Sun08AM   0:01.04 /System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent
+marcbreneiser      639   0.0  0.1 426981808  26944   ??  S    Sun08AM   0:02.64 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+marcbreneiser      638   0.0  0.1 426987472  35376   ??  S    Sun08AM   0:06.76 /System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod
+marcbreneiser      637   0.0  0.1 426974448  14592   ??  S    Sun08AM   0:00.51 /usr/libexec/findmylocateagent
+marcbreneiser      636   0.0  0.3 412466224  74864   ??  S    Sun08AM   0:05.86 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+marcbreneiser      635   0.0  0.1 426984048  23936   ??  S    Sun08AM   0:02.22 /System/Library/PrivateFrameworks/DoNotDisturbServer.framework/Support/donotdisturbd
+marcbreneiser      634   0.0  0.1 427428384  18896   ??  S    Sun08AM   0:01.59 /System/Library/PrivateFrameworks/ReplicatorCore.framework/Support/replicatord
+marcbreneiser      633   0.0  0.0 426966064   7040   ??  S    Sun08AM   0:00.09 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+marcbreneiser      632   0.0  0.1 427061984  33056   ??  S    Sun08AM   0:35.18 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+marcbreneiser      630   0.0  0.1 426975680  19088   ??  S    Sun08AM   0:01.38 /usr/libexec/pkd
+root               631   0.0  0.0 426966752   5936   ??  Ss   Sun08AM   0:00.08 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+marcbreneiser      628   0.0  0.1 426969120  14240   ??  S    Sun08AM   0:01.33 /usr/libexec/bluetoothuserd
+marcbreneiser      629   0.0  0.1 426967824  15904   ??  S    Sun08AM   0:00.94 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+_ctkd              627   0.0  0.0 426966320   5168   ??  Ss   Sun08AM   0:00.06 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -st
+marcbreneiser      626   0.0  0.0 426966656  11136   ??  S    Sun08AM   0:00.81 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+marcbreneiser      625   0.0  0.1 427061472  29872   ??  S    Sun08AM   0:04.87 /usr/libexec/transparencyd
+marcbreneiser      624   0.0  0.1 426970864  25760   ??  S    Sun08AM   0:01.40 /System/Library/CoreServices/audioaccessoryd
+marcbreneiser      623   0.0  0.0 426966640   8560   ??  S    Sun08AM   0:00.37 /System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd
+marcbreneiser      592   0.0  0.1 426996080  20656   ??  S    Sun08AM   0:01.21 /System/Library/PrivateFrameworks/UserNotificationsCore.framework/Support/usernotificationsd
+marcbreneiser      622   0.0  0.0 427359504  11008   ??  S    Sun08AM   0:02.20 /System/Library/PrivateFrameworks/SiriTTSService.framework/sirittsd
+marcbreneiser      621   0.0  0.1 426976960  16944   ??  S    Sun08AM   0:12.12 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd
+marcbreneiser      620   0.0  0.1 426967936  17584   ??  S    Sun08AM   0:22.46 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent
+marcbreneiser      619   0.0  0.0 426966976   9712   ??  S    Sun08AM   0:00.07 /usr/libexec/icloudmailagent
+_applepay          571   0.0  0.0 426932736   6976   ??  Ss   Sun08AM   0:00.07 /usr/libexec/seld
+marcbreneiser      618   0.0  0.3 427007808  67744   ??  S    Sun08AM   0:11.11 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+marcbreneiser      616   0.0  0.0 426973232  11488   ??  S    Sun08AM   0:00.77 /System/Library/Frameworks/FinanceKit.framework/financed
+marcbreneiser      614   0.0  0.1 426976304  25168   ??  S    Sun08AM   0:01.21 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+marcbreneiser      612   0.0  0.1 426968432  16832   ??  S    Sun08AM   0:08.36 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
+marcbreneiser      611   0.0  0.0 426969760  11296   ??  S    Sun08AM   0:00.35 /System/Library/PrivateFrameworks/NewDeviceOutreach.framework/ndoagent
+marcbreneiser      615   0.0  0.1 426982480  17424   ??  S    Sun08AM   0:00.94 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
+marcbreneiser      610   0.0  0.2 411058288  40704   ??  S    Sun08AM   0:01.57 /System/Library/PrivateFrameworks/SiriInference.framework/Versions/A/siriinferenced
+marcbreneiser      609   0.0  1.0 427319248 241936   ??  S    Sun08AM 229:15.57 /System/Library/PrivateFrameworks/MediaAnalysis.framework/Versions/A/mediaanalysisd
+marcbreneiser      613   0.0  0.0 426967120   7456   ??  S    Sun08AM   0:00.17 /usr/libexec/diagnosticextensionsd
+marcbreneiser      617   0.0  0.2 427004848  37824   ??  S    Sun08AM   0:14.59 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+marcbreneiser      608   0.0  0.1 427011392  23744   ??  S    Sun08AM   0:01.79 /System/Library/PrivateFrameworks/GenerativeExperiencesRuntime.framework/Versions/A/generativeexperiencesd
+marcbreneiser      607   0.0  0.1 426984256  26576   ??  S    Sun08AM   0:02.99 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+marcbreneiser      606   0.0  0.0 426932448   8976   ??  S    Sun08AM   0:00.15 /usr/libexec/findmydevice-user-agent
+marcbreneiser      605   0.0  0.0 426934000   4352   ??  S    Sun08AM   0:00.15 /System/Library/Frameworks/ManagedSettings.framework/Versions/A/ManagedSettingsAgent
+marcbreneiser      604   0.0  0.0 426965552  10912   ??  S    Sun08AM   0:02.69 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+marcbreneiser      603   0.0  0.1 426998448  21712   ??  S    Sun08AM   0:04.31 /System/Library/CoreServices/talagentd
+marcbreneiser      602   0.0  0.1 426991024  19152   ??  S    Sun08AM   0:14.97 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent
+marcbreneiser      601   0.0  0.1 426968992  15856   ??  S    Sun08AM   0:20.89 /usr/libexec/triald
+marcbreneiser      600   0.0  0.0 426933056   3792   ??  S    Sun08AM   0:00.58 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+marcbreneiser      599   0.0  0.0 426971936   8208   ??  S    Sun08AM   0:00.39 /usr/libexec/dmd
+_appleevents       596   0.0  0.0 426932880   2192   ??  S    Sun08AM   0:01.11 /usr/sbin/distnoted agent
+marcbreneiser      598   0.0  0.4 428495040 111872   ??  S    Sun08AM   0:12.06 /System/Applications/Messages.app/Contents/MacOS/Messages
+marcbreneiser      597   0.0  0.2 427137872  38096   ??  S    Sun08AM   0:00.40 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+marcbreneiser      595   0.0  0.1 426976672  16672   ??  S    Sun08AM   0:46.71 /usr/libexec/trustd --agent
+marcbreneiser      593   0.0  0.0 426967424   7216   ??  S    Sun08AM   0:06.18 /System/Library/CoreServices/lockoutagent
+marcbreneiser      591   0.0  0.1 427006624  28624   ??  S    Sun08AM   0:18.10 /usr/libexec/secd
+marcbreneiser      590   0.0  0.0 426976704  10480   ??  S    Sun08AM   0:03.43 /usr/libexec/secinitd
+marcbreneiser      588   0.0  0.1 426981408  29808   ??  S    Sun08AM   0:14.31 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+marcbreneiser      587   0.0  0.1 427005120  27136   ??  S    Sun08AM   0:02.50 /usr/sbin/usernoted
+marcbreneiser      586   0.0  0.1 426981280  26272   ??  S    Sun08AM   0:05.31 /usr/libexec/rapportd
+root               589   0.0  0.0 426971424  10256   ??  Ss   Sun08AM   0:00.52 /usr/libexec/mobileactivationd
+marcbreneiser      585   0.0  0.1 426983552  16464   ??  S    Sun08AM   0:11.60 /usr/libexec/nsurlsessiond
+marcbreneiser      583   0.0  0.0 426932992   4736   ??  S    Sun08AM   0:00.04 /System/Library/CoreServices/APFSUserAgent
+marcbreneiser      582   0.0  0.0 426932944   2176   ??  S    Sun08AM   0:00.01 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+marcbreneiser      581   0.0  0.1 426980032  21344   ??  S    Sun08AM   0:00.79 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+root               580   0.0  0.1 426970528  14688   ??  Ss   Sun08AM   0:00.49 /usr/libexec/findmydeviced
+root               579   0.0  0.0 426932592   3344   ??  Ss   Sun08AM   0:05.83 /usr/libexec/sysmond
+marcbreneiser      578   0.0  0.1 412071312  30784   ??  S    Sun08AM   0:21.14 /System/Library/CoreServices/WindowManager.app/Contents/MacOS/WindowManager
+marcbreneiser      577   0.0  0.1 426979616  18160   ??  S    Sun08AM   0:04.26 /usr/libexec/lsd
+marcbreneiser      576   0.0  0.0 426942976   9712   ??  S    Sun08AM   0:00.79 /usr/libexec/pboard
+marcbreneiser      575   0.0  0.1 426983008  37344   ??  S    Sun08AM   0:07.04 /usr/libexec/knowledge-agent
+marcbreneiser      569   0.0  0.1 426969104  20320   ??  S    Sun08AM   0:08.39 /usr/libexec/UserEventAgent (Aqua)
+marcbreneiser      573   0.0  0.2 412210688  40816   ??  S    Sun08AM   0:02.61 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+marcbreneiser      574   0.0  0.1 412043056  15104   ??  S    Sun08AM   0:01.16 /usr/sbin/universalaccessd launchd -s
+root               568   0.0  0.0 426932960   2528   ??  Ss   Sun08AM   0:00.05 /System/Library/PrivateFrameworks/CoreKDL.framework/Support/corekdld
+_accessoryupdater   564   0.0  0.0 426965808   4640   ??  Ss   Sun08AM   0:00.07 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceLegacyAudio.xpc/Contents/MacOS/UARPUpdaterServiceLegacyAudio
+_accessoryupdater   562   0.0  0.0 411462544   7280   ??  Ss   Sun08AM   0:00.58 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceUSBPD.xpc/Contents/MacOS/UARPUpdaterServiceUSBPD
+_accessoryupdater   563   0.0  0.0 410771136   2704   ??  Ss   Sun08AM   0:00.04 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceAFU.xpc/Contents/MacOS/UARPUpdaterServiceAFU
+_accessoryupdater   559   0.0  0.0 426973360   5488   ??  Ss   Sun08AM   0:00.07 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceDisplay.xpc/Contents/MacOS/UARPUpdaterServiceDisplay
+_accessoryupdater   560   0.0  0.0 410665232   3840   ??  Ss   Sun08AM   0:00.03 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceDFU.xpc/Contents/MacOS/UARPUpdaterServiceDFU
+_accessoryupdater   561   0.0  0.0 426932576   3056   ??  Ss   Sun08AM   0:00.04 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceHID.xpc/Contents/MacOS/UARPUpdaterServiceHID
+root               567   0.0  0.0 426932464   1568   ??  Ss   Sun08AM   0:00.03 /usr/libexec/applekeystored
+_accessoryupdater   565   0.0  0.0 426932880   2176   ??  S    Sun08AM   0:01.11 /usr/sbin/distnoted agent
+marcbreneiser      566   0.0  0.0 426937104   6496   ??  S    Sun08AM   0:19.94 /usr/sbin/cfprefsd agent
+marcbreneiser      558   0.0  0.0 426932880   4944   ??  S    Sun08AM   0:14.23 /usr/sbin/distnoted agent
+root               557   0.0  0.1 426967424  14224   ??  Ss   Sun08AM   0:00.58 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+_spotlight         554   0.0  0.0 426932880   2128   ??  S    Sun08AM   0:01.12 /usr/sbin/distnoted agent
+_driverkit         552   0.0  0.0 426851696   1280   ??  Ss   Sun08AM   0:00.38 /System/Library/DriverExtensions/com.apple.AppleUserHIDDrivers.dext/com.apple.AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDDrivers 0x100000e1b com.apple.AppleUserHIDDrivers
+_driverkit         548   0.0  0.0 426851488    800   ??  Ss   Sun08AM   0:00.05 /System/Library/DriverExtensions/com.apple.DriverKit-IOUserDockChannelSerial.dext/com.apple.DriverKit-IOUserDockChannelSerial com.apple.IOUserDockChannelSerial 0x100000e0b com.apple.DriverKit-IOUserDockChannelSerial
+root               549   0.0  0.0 426934064   3968   ??  Ss   Sun08AM   0:00.06 /System/Library/Frameworks/GSS.framework/Helpers/GSSCred
+root               545   0.0  0.5 441996208 134096   ??  Ss   Sun08AM 101:29.82 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+root               544   0.0  0.0 426933040   2848   ??  S    Sun08AM   0:00.48 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+root               541   0.0  0.0 426972064  11360   ??  Ss   Sun08AM   0:03.01 /usr/libexec/rtcreportingd
+root               540   0.0  0.0 426967824   4320   ??  Ss   Sun08AM   0:00.50 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Versions/A/XPCServices/com.apple.MobileSoftwareUpdate.CleanupPreparePathService.xpc/Contents/MacOS/com.apple.MobileSoftwareUpdate.CleanupPreparePathService
+_nsurlsessiond     538   0.0  0.0 426932880   2176   ??  S    Sun08AM   0:01.14 /usr/sbin/distnoted agent
+_softwareupdate    535   0.0  0.0 426932880   2160   ??  S    Sun08AM   0:01.16 /usr/sbin/distnoted agent
+_cmiodalassistants   537   0.0  0.0 426965552   3056   ??  S    Sun08AM   0:00.05 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+root               536   0.0  0.0 426932400   3376   ??  Ss   Sun08AM   0:00.03 /usr/libexec/bootinstalld
+root               534   0.0  0.0 426934544   3440   ??  Ss   Sun08AM   0:00.04 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+root               533   0.0  0.0 411581024  10816   ??  S    Sun08AM   0:01.02 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+root               531   0.0  0.0 426970944   7600   ??  Ss   Sun08AM   0:00.19 /usr/libexec/symptomsd-diag
+root               530   0.0  0.0 410624752   1840   ??  Ss   Sun08AM   0:00.02 /usr/libexec/cryptexd
+_cmiodalassistants   529   0.0  0.0 426969088   5808   ??  S    Sun08AM   0:00.17 /usr/libexec/trustd --agent
+_softwareupdate    528   0.0  0.0 431379456  12256   ??  Ss   Sun08AM   0:09.73 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+_cmiodalassistants   527   0.0  0.0 426932928   3088   ??  S    Sun08AM   0:00.20 /usr/sbin/cfprefsd agent
+_appleevents       526   0.0  0.0 426967152   5504   ??  Ss   Sun08AM   0:00.68 /System/Library/CoreServices/appleeventsd --server
+_cmiodalassistants   525   0.0  0.0 426967648   5024   ??  S    Sun08AM   0:00.05 /usr/libexec/secinitd
+_neuralengine      523   0.0  0.0 426967200   4608   ??  Ss   Sun08AM   0:00.14 /usr/libexec/aneuserd
+root               524   0.0  0.0 426967760   5440   ??  Ss   Sun08AM   5:05.52 /usr/libexec/aned
+_cmiodalassistants   522   0.0  0.0 426971248  10304   ??  S    Sun08AM   0:01.03 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+root               520   0.0  0.0 426966816   9568   ??  Ss   Sun08AM   0:01.56 /usr/libexec/audioanalyticsd
+_coreaudiod        521   0.0  0.0 426966224   4128   ??  Ss   Sun08AM   0:00.02 /System/Library/PrivateFrameworks/AppleDeviceQuerySupport.framework/Versions/A/XPCServices/AppleDeviceQueryService.xpc/Contents/MacOS/AppleDeviceQueryService
+root               519   0.0  0.1 427002240  28256   ??  Ss   Sun08AM   0:24.90 /usr/libexec/searchpartyd
+_modelmanagerd     518   0.0  0.1 426997520  16736   ??  Ss   Sun08AM   0:00.70 /usr/libexec/modelmanagerd
+root               516   0.0  0.0 426967856   8336   ??  Ss   Sun08AM   0:01.27 /usr/libexec/ospredictiond
+root               515   0.0  0.0 426966288   8208   ??  Ss   Sun08AM   0:03.21 /usr/libexec/findmybeaconingd
+root               514   0.0  0.1 426983856  20944   ??  Ss   Sun08AM   0:27.61 /usr/libexec/syspolicyd
+_cmiodalassistants   513   0.0  0.0 426938624   3648   ??  Ss   Sun08AM   0:00.04 /usr/sbin/appleh16camerad
+root               512   0.0  0.0 426967296   9200   ??  Ss   Sun08AM   0:04.37 /usr/sbin/WirelessRadioManagerd
+root               511   0.0  0.0 411071520   4208   ??  Ss   Sun08AM   0:10.99 /usr/libexec/audioclocksyncd
+root               510   0.0  0.0 426957648   3648   ??  Ss   Sun08AM   0:00.80 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+_cmiodalassistants   509   0.0  0.0 426967184   5440   ??  Ss   Sun08AM   0:00.08 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/UVCAssistant.systemextension/Contents/MacOS/UVCAssistant
+_coreaudiod        508   0.0  0.0 410193072   1968   ??  Ss   Sun08AM   0:00.01 /System/Library/Frameworks/CoreAudio.framework/Versions/A/XPCServices/com.apple.audio.DriverHelper.xpc/Contents/MacOS/com.apple.audio.DriverHelper
+root               507   0.0  0.0 426966880   3584   ??  Ss   Sun08AM   0:00.71 /usr/libexec/securityd_system
+_cmiodalassistants   506   0.0  0.0 426967328  11968   ??  Ss   Sun08AM   0:03.11 /usr/libexec/cameracaptured
+_locationd         503   0.0  0.0 426965552   3056   ??  S    Sun08AM   0:00.05 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+root               501   0.0  0.0 426967776   9392   ??  Ss   Sun08AM   0:03.32 /System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/Versions/A/modelcatalogd
+root               500   0.0  0.0 427002080  12368   ??  Ss   Sun08AM   0:02.82 /usr/libexec/storagekitd
+root               499   0.0  0.0 426932368   2480   ??  Ss   Sun08AM   0:00.04 /usr/libexec/colorsyncd
+root               498   0.0  0.0 426928832   1840   ??  Ss   Sun08AM   0:00.01 /System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent
+_locationd         494   0.0  0.0 426969104   5840   ??  S    Sun08AM   0:00.29 /usr/libexec/trustd --agent
+root               490   0.0  0.0 426968080   5744   ??  Ss   Sun08AM   0:02.20 /System/Library/CoreServices/TimeMachine/backupd
+root               488   0.0  0.0 426967360   4560   ??  Ss   Sun08AM   0:05.40 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+root               486   0.0  0.0 426966848   9440   ??  Ss   Sun08AM   0:01.57 /System/Library/CoreServices/osanalyticshelper server-init
+_locationd         485   0.0  0.0 426932928   3040   ??  S    Sun08AM   0:00.20 /usr/sbin/cfprefsd agent
+root               483   0.0  0.0 426932912   6352   ??  Ss   Sun08AM   0:00.88 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+root               471   0.0  0.0 426967888  10448   ??  Ss   Sun08AM   0:00.77 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Resources/backgroundtaskmanagementd -daemon
+root               393   0.0  0.0 426932784   4192   ??  Ss   Sun08AM   0:00.89 /System/Library/CoreServices/TimeMachine/backupd-helper -launchd
+root               412   0.0  0.0 426932400   2528   ??  Ss   Sun08AM   0:00.04 /usr/libexec/usbd
+root               407   0.0  0.0 426932976   1744   ??  Ss   Sun08AM   0:00.10 /System/Library/CoreServices/liquiddetectiond.app/liquiddetectiond
+_locationd         478   0.0  0.0 426967648   5024   ??  S    Sun08AM   0:00.05 /usr/libexec/secinitd
+root               472   0.0  0.0 410198288   1744   ??  Ss   Sun08AM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+_cmiodalassistants   450   0.0  0.0 426932880   2160   ??  S    Sun08AM   0:01.18 /usr/sbin/distnoted agent
+_locationd         444   0.0  0.0 426932880   2160   ??  S    Sun08AM   0:01.23 /usr/sbin/distnoted agent
+root             28274   0.0  0.0 410724224   2224 s002  R+   10:25AM   0:00.01 ps aux
+root               457   0.0  0.0 426932432   2640   ??  Ss   Sun08AM   0:00.04 /usr/libexec/colorsync.displayservices
+_networkd          447   0.0  0.1 426981712  18352   ??  Ss   Sun08AM   0:14.49 /usr/libexec/symptomsd
+root               441   0.0  0.0 426932560   3376   ??  Ss   Sun08AM   0:00.02 /usr/libexec/ApplicationFirewall/socketfilterfw
+root               443   0.0  0.0 426967040   3264   ??  Ss   Sun08AM   0:01.24 /usr/sbin/mDNSResponderHelper
+root               445   0.0  0.0 426967632   4816   ??  Ss   Sun08AM   0:00.05 /System/Library/Frameworks/SystemExtensions.framework/Versions/A/Helpers/sysextd
+_coreaudiod        430   0.0  0.0 426932880   2144   ??  S    Sun08AM   0:01.23 /usr/sbin/distnoted agent
+_coreaudiod        428   0.0  0.0 410304720   2400   ??  Ss   Sun08AM   0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+_mdnsresponder     425   0.0  0.1 427056624  19488   ??  Ss   Sun08AM   0:26.72 /usr/sbin/mDNSResponder
+_windowserver      422   0.0  0.0 426932880   2144   ??  S    Sun08AM   0:01.25 /usr/sbin/distnoted agent
+root               419   0.0  0.0 426932880   2240   ??  S    Sun08AM   0:01.50 /usr/sbin/distnoted agent
+root               400   0.0  0.0 426928848   2016   ??  S    Sun08AM   0:00.01 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+root               424   0.0  0.0 426932976   3488   ??  Ss   Sun08AM   0:00.05 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
+root               423   0.0  0.0 426933040   3776   ??  Ss   Sun08AM   0:00.06 /usr/libexec/corercd
+root               420   0.0  0.2 426995152  38912   ??  Ss   Sun08AM   2:36.40 /usr/libexec/mobileassetd
+_biome             418   0.0  0.0 426967008   9328   ??  Ss   Sun08AM   0:02.15 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed
+root               416   0.0  0.0 411726624   3232   ??  Ss   Sun08AM   0:00.06 /System/Library/PrivateFrameworks/PowerLog.framework/Versions/A/XPCServices/PerfPowerTelemetryClientRegistrationService.xpc/Contents/MacOS/PerfPowerTelemetryClientRegistrationService
+root               417   0.0  0.0 426968176   6112   ??  Ss   Sun08AM   0:00.92 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+_nsurlsessiond     406   0.0  0.0 426977104  11952   ??  Ss   Sun08AM   0:01.98 /usr/libexec/nsurlsessiond --privileged
+root               415   0.0  0.0 426968032   8800   ??  Ss   Sun08AM   0:00.37 /usr/libexec/biometrickitd --launchd
+root               414   0.0  0.0 426967632   5056   ??  Ss   Sun08AM   0:00.05 /usr/libexec/secinitd
+_hidd              404   0.0  0.0 426932368   2304   ??  Ss   Sun08AM   0:00.02 /usr/libexec/hidd
+root               408   0.0  0.0 426967264  12160   ??  Ss   Sun08AM   0:01.35 /usr/libexec/nehelper
+root               410   0.0  0.0 426965984   3344   ??  Ss   Sun08AM   2:24.26 /usr/libexec/apfsd
+root               402   0.0  0.0 426967344   8352   ??  Ss   Sun08AM   0:01.27 /usr/libexec/eligibilityd
+_coreaudiod        397   0.0  0.1 426994672  35584   ??  Ss   Sun08AM   0:13.26 /usr/sbin/coreaudiod
+root               399   0.0  0.0 426965584   6176   ??  Ss   Sun08AM   0:01.13 /System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd
+root               398   0.0  0.0 426966704   3328   ??  Ss   Sun08AM   0:00.04 /usr/libexec/trustdFileHelper
+root               396   0.0  0.1 426974192  23920   ??  Ss   Sun08AM   3:50.17 /usr/libexec/airportd
+_trustd            395   0.0  0.1 426972816  15744   ??  Ss   Sun08AM   0:37.24 /usr/libexec/trustd
+root               394   0.0  0.0 426966864  10816   ??  Ss   Sun08AM   0:00.23 /usr/libexec/PowerUIAgent
+root               391   0.0  0.1 426976112  18704   ??  Ss   Sun08AM   0:14.19 /usr/libexec/lsd runAsRoot
+root               390   0.0  0.0 426966224   4208   ??  Ss   Sun08AM   0:00.33 /usr/libexec/powerexperienced
+root               389   0.0  0.0 411103312   3200   ??  Ss   Sun08AM   0:00.09 /usr/libexec/containermanagerd_system --runmode=privileged --user-container-mode=current --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
+root               388   0.0  0.1 426973600  14912   ??  Ss   Sun08AM   0:21.62 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+root               387   0.0  0.0 426959984   4560   ??  Ss   Sun08AM   0:00.90 /System/Library/CoreServices/coreservicesd
+root               386   0.0  0.1 426976784  20880   ??  Ss   Sun08AM   1:32.36 /usr/libexec/runningboardd
+_analyticsd        382   0.0  0.1 426981584  21040   ??  Ss   Sun08AM   1:46.40 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+root               380   0.0  0.0 426935472   6608   ??  Ss   Sun08AM   0:22.64 /usr/sbin/cfprefsd daemon
+marcbreneiser      381   0.0  0.3 412419568  68176   ??  Ss   Sun08AM   0:56.48 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+root               379   0.0  0.1 426985312  16624   ??  Ss   Sun08AM   0:10.86 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd system
+_softwareupdate    329   0.0  0.0 426969120   4864   ??  Ss   Sun08AM   0:00.59 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Support/softwareupdated
+_accessoryupdater   318   0.0  0.0 426968992  10544   ??  Ss   Sun08AM   0:00.39 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/accessoryupdaterd 120
+_iconservices      337   0.0  0.0 426966704   5104   ??  Ss   Sun08AM   0:00.05 /System/Library/CoreServices/iconservicesd
+_locationd         355   0.0  0.1 427007296  31184   ??  Ss   Sun08AM   0:57.05 /usr/libexec/locationd
+_timed             351   0.0  0.0 426967584   6976   ??  Ss   Sun08AM   0:01.06 /usr/libexec/timed
+_corespeechd       330   0.0  0.0 410645120   2320   ??  Ss   Sun08AM   0:00.02 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd_system
+_usbmuxd           352   0.0  0.0 426976832   4304   ??  Ss   Sun08AM   0:00.14 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+_distnote          361   0.0  0.0 426932880   3504   ??  Ss   Sun08AM   0:08.41 /usr/sbin/distnoted daemon
+root               377   0.0  0.0 426932624   2192   ??  Ss   Sun08AM   0:00.28 /usr/libexec/logd_helper
+root               322   0.0  0.0 426928896   3120   ??  Ss   Sun08AM   0:00.02 /usr/libexec/IOMFB_bics_daemon
+root               368   0.0  0.0 426932832   5376   ??  Ss   Sun08AM   0:00.23 /usr/libexec/usermanagerd -t 15
+root               375   0.0  0.1 426966496  23520   ??  Ss   Sun08AM   0:01.41 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/com.apple.cmio.registerassistantservice
+root               350   0.0  0.1 426968720  12928   ??  Ss   Sun08AM   0:14.81 /System/Library/CoreServices/launchservicesd
+root               359   0.0  0.1 426973872  21200   ??  Ss   Sun08AM   1:11.70 /usr/libexec/dasd
+root               309   0.0  0.0 426933632   3712   ??  Ss   Sun08AM   0:00.08 /usr/libexec/smd
+root               366   0.0  0.0 426967328   5904   ??  Ss   Sun08AM   0:00.15 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root               376   0.0  0.0 426932624    544   ??  Ss   Sun08AM   0:00.04 aslmanager
+root               316   0.0  0.1 426977104  15840   ??  Ss   Sun08AM   0:02.79 /usr/sbin/systemstats --daemon
+root               364   0.0  0.0 426928784    496   ??  Ss   Sun08AM   0:00.07 /usr/libexec/dirhelper
+root               356   0.0  0.0 426967376   5024   ??  Ss   Sun08AM   0:00.24 /usr/libexec/nesessionmanager
+root               320   0.0  0.0 426928336   1552   ??  Ss   Sun08AM   0:00.02 endpointsecurityd
+root               342   0.0  0.1 426980240  20160   ??  Ss   Sun08AM   0:35.24 /usr/libexec/coreduetd
+root               313   0.0  0.1 426982080  16848   ??  Ss   Sun08AM   0:00.81 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root               343   0.0  0.0 426933584   1840   ??  Ss   Sun08AM   0:01.64 /usr/sbin/syslogd
+root               308   0.0  0.2 427122464  55024   ??  Ss   Sun08AM   2:55.64 /usr/libexec/logd
+root               338   0.0  0.0 426970560   6640   ??  Ss   Sun08AM   0:00.61 /usr/libexec/kernelmanagerd
+root               336   0.0  0.1 426993008  29424   ??  Ss   Sun08AM   9:10.73 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+root               374   0.0  0.0 426968128  11808   ??  Ss   Sun08AM   0:00.96 /usr/libexec/AirPlayXPCHelper
+root               372   0.0  0.0 426967696   5232   ??  Ss   Sun08AM   0:01.08 /usr/libexec/sandboxd
+root               339   0.0  0.0 426966560   6320   ??  Ss   Sun08AM   0:02.36 /usr/libexec/diskarbitrationd
+root               367   0.0  0.0 426928848   1360   ??  Ss   Sun08AM   0:00.01 /usr/sbin/KernelEventAgent
+root               373   0.0  0.1 426967648  15056   ??  Ss   Sun08AM   0:49.84 /usr/libexec/corebrightnessd --launchd
+root               365   0.0  0.0 426932448   4256   ??  Ss   Sun08AM   0:00.12 /System/Library/CoreServices/logind
+root               349   0.0  0.1 427051920  18416   ??  Ss   Sun08AM   0:09.86 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root               332   0.0  0.0 426933024   2832   ??  Ss   Sun08AM   0:00.59 /usr/libexec/watchdogd
+root               358   0.0  0.0 426928832   2288   ??  Ss   Sun08AM   0:00.02 autofsd
+root               346   0.0  0.0 426966704   6288   ??  Ss   Sun08AM   0:05.45 /usr/libexec/thermalmonitord
+root               370   0.0  0.1 426991280  30240   ??  Ss   Sun08AM   0:37.07 /usr/sbin/bluetoothd
+root               362   0.0  0.0 426966224   2672   ??  Ss   Sun08AM   0:00.03 /System/Library/PrivateFrameworks/AppleCredentialManager.framework/AppleCredentialManagerDaemon
+root               353   0.0  0.0 426968688   6720   ??  Ss   Sun08AM   0:03.58 /usr/sbin/securityd -i
+root               328   0.0  0.0 426932768   9344   ??  Ss   Sun08AM   0:00.20 /usr/libexec/keybagd -t 15
+root               326   0.0  0.0 426966560   3312   ??  Ss+  Sun08AM   0:00.04 /usr/libexec/remoted
+root               324   0.0  0.0 426967952   6272   ??  Ss   Sun08AM   0:00.43 /usr/libexec/amfid
+root               319   0.0  0.0 426972544  11920   ??  Ss   Sun08AM   0:12.29 /usr/libexec/configd
+root               321   0.0  0.0 426968544  11376   ??  Ss   Sun08AM   0:24.93 /System/Library/CoreServices/powerd.bundle/powerd
+root               312   0.0  0.0 426938608   7248   ??  Ss   Sun08AM   0:38.04 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root               310   0.0  0.1 426975392  26480   ??  Ss   Sun08AM   0:13.55 /usr/libexec/UserEventAgent (System)
+_locationd         442   0.0  0.0 426976224  11152   ??  S    Sun08AM   0:01.57 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+marcbreneiser    28273   0.0  0.1 426984288  30624   ??  S    10:25AM   0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+marcbreneiser    28272   0.0  0.1 426984288  30592   ??  S    10:25AM   0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+marcbreneiser    28271   0.0  0.1 426984288  30624   ??  S    10:25AM   0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+marcbreneiser    28270   0.0  0.1 426984288  30576   ??  S    10:25AM   0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+marcbreneiser    28268   0.0  0.1 426984288  30592   ??  S    10:25AM   0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+marcbreneiser    28266   0.0  0.1 426984288  30608   ??  S    10:25AM   0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+marcbreneiser    28269   0.0  0.1 426984288  30560   ??  S    10:25AM   0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+marcbreneiser    28267   0.0  0.1 426984288  30576   ??  S    10:25AM   0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+marcbreneiser    28265   0.0  0.1 426984288  25888   ??  S    10:25AM   0:00.09 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+marcbreneiser    28250   0.0  0.2 411121744  38880   ??  S    10:24AM   0:00.07 /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/AXVisualSupportAgent.app/Contents/MacOS/AXVisualSupportAgent launchd -s
+marcbreneiser    28228   0.0  0.0 410311888   6944   ??  Ss   10:23AM   0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
