@@ -47,21 +47,21 @@ const App: React.FC = () => {
         )}
         {error && <div className="bg-red-100 text-red-700 p-4 rounded mb-4">{error}</div>}
         <Routes>
-          <Route path="/auth/signup" element={<Signup setMessage={setMessage} setError={setError} />} />
+          <Route path="/signup" element={<Signup setMessage={setMessage} setError={setError} />} />
           <Route
-            path="/auth/login"
+            path="/login"
             element={<Login setUser={setUser} setMessage={setMessage} setError={setError} />}
           />
           <Route
-            path="/auth/forgot-password"
+            path="/forgot-password"
             element={<ForgotPassword setMessage={setMessage} setError={setError} />}
           />
           <Route
-            path="/auth/reset-password"
+            path="/reset-password"
             element={<ResetPassword setMessage={setMessage} setError={setError} />}
           />
           <Route
-            path="/auth/verify-email"
+            path="/verify-email"
             element={<VerifyEmail setMessage={setMessage} setError={setError} />}
           />
           <Route

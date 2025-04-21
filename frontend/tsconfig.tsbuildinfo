@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/navbar.tsx","./src/pages/auth/forgotpassword.tsx","./src/pages/auth/login.tsx","./src/pages/auth/resetpassword.tsx","./src/pages/auth/signup.tsx","./src/pages/auth/verifyemail.tsx","./src/pages/dashboard/admindashboard.tsx","./src/utils/auth.ts"],"version":"5.8.3"}
